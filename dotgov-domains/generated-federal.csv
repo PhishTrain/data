@@ -1,0 +1,1304 @@
+"Domain Name","Domain Type",Agency,City,State,"Is Live",SPF,DKIM
+ACUS.GOV,"Federal Agency","Administrative Conference of the United States",WASHINGTON,DC,true,true,true
+ACHP.GOV,"Federal Agency","Advisory Council on Historic Preservation",Washington,DC,true,true,false
+PRESERVEAMERICA.GOV,"Federal Agency","Advisory Council on Historic Preservation",Washington,DC,true,false,false
+ADF.GOV,"Federal Agency","African Development Foundation",Washington,DC,true,true,false
+USADF.GOV,"Federal Agency","African Development Foundation",Washington,DC,true,true,false
+ABMC.GOV,"Federal Agency","American Battle Monuments Commission",Arlington,VA,true,true,false
+ABMCSCHOLAR.GOV,"Federal Agency","American Battle Monuments Commission",Arlington,VA,false,false,false
+NATIONALMALL.GOV,"Federal Agency","American Battle Monuments Commission",Arlington,VA,false,false,false
+AMTRAKOIG.GOV,"Federal Agency",AMTRAK,Washington,DC,true,true,false
+ARC.GOV,"Federal Agency","Appalachian Regional Commission",Washington,DC,true,true,false
+ASC.GOV,"Federal Agency","Appraisal Subcommittee",Washington,DC,true,true,false
+AOC.GOV,"Federal Agency","Architect of the Capitol",Washington,DC,true,true,false
+CAPITAL.GOV,"Federal Agency","Architect of the Capitol",Washington,DC,false,false,false
+CAPITOL.GOV,"Federal Agency","Architect of the Capitol",Washington,DC,true,false,false
+USBG.GOV,"Federal Agency","Architect of the Capitol",Washington,DC,true,false,false
+USCAPITAL.GOV,"Federal Agency","Architect of the Capitol",Washington,DC,true,false,false
+USCAPITOL.GOV,"Federal Agency","Architect of the Capitol",Washington,DC,false,false,false
+VISITTHECAPITAL.GOV,"Federal Agency","Architect of the Capitol",Washington,DC,false,false,false
+VISITTHECAPITOL.GOV,"Federal Agency","Architect of the Capitol",Washington,DC,true,true,false
+AFRH.GOV,"Federal Agency","Armed Forces Retirement Home",Washington,DC,false,true,false
+CIA.GOV,"Federal Agency","Central Intelligence Agency",Washington,DC,true,true,false
+DF.GOV,"Federal Agency","Central Intelligence Agency",WASHINGTON,DC,true,false,false
+IC.GOV,"Federal Agency","Central Intelligence Agency",Washington,DC,false,false,false
+ISTAC.GOV,"Federal Agency","Central Intelligence Agency",Washington,DC,false,false,false
+NCTC.GOV,"Federal Agency","Central Intelligence Agency",Washington,DC,true,false,false
+ODCI.GOV,"Federal Agency","Central Intelligence Agency",Washington,DC,false,false,false
+OPENSOURCE.GOV,"Federal Agency","Central Intelligence Agency",Washington,DC,true,true,false
+OSDE.GOV,"Federal Agency","Central Intelligence Agency",Reston,VA,false,false,false
+OSDLS.GOV,"Federal Agency","Central Intelligence Agency",McLean,VA,false,false,false
+TTIC.GOV,"Federal Agency","Central Intelligence Agency",Washington,DC,false,false,false
+UCIA.GOV,"Federal Agency","Central Intelligence Agency",Washington,DC,false,true,false
+CAP.GOV,"Federal Agency","Civil Air Patrol",BIRMINGHAM,MI,false,true,false
+CAPNHQ.GOV,"Federal Agency","Civil Air Patrol","MAXWELL AFB",AL,true,true,false
+ABILITYONE.GOV,"Federal Agency","Comm for People Who Are Blind/Severly Disabled",Arlington,VA,true,true,true
+JWOD.GOV,"Federal Agency","Comm for People Who Are Blind/Severly Disabled",Arlington,VA,true,true,false
+CFTC.GOV,"Federal Agency","Commodity Futures Trading Commission",Washington,DC,false,true,false
+SMARTCHECK.GOV,"Federal Agency","Commodity Futures Trading Commission",Washington,DC,true,false,false
+WHISTLEBLOWER.GOV,"Federal Agency","Commodity Futures Trading Commission",Washington,DC,false,false,false
+COMPLIANCE.GOV,"Federal Agency","Congressional Office of Compliance",Washington,DC,true,false,false
+BCFP.GOV,"Federal Agency","Consumer Financial Protection Bureau",Washington,DC,true,false,false
+CFPA.GOV,"Federal Agency","Consumer Financial Protection Bureau",Washington,DC,true,false,true
+CFPB.GOV,"Federal Agency","Consumer Financial Protection Bureau",Washington,DC,true,true,true
+CONSUMERBUREAU.GOV,"Federal Agency","Consumer Financial Protection Bureau",Washington,DC,true,true,true
+CONSUMERFINANCE.GOV,"Federal Agency","Consumer Financial Protection Bureau",Washington,DC,true,true,true
+CONSUMERFINANCIAL.GOV,"Federal Agency","Consumer Financial Protection Bureau",Washington,DC,true,true,true
+CONSUMERFINANCIALBUREAU.GOV,"Federal Agency","Consumer Financial Protection Bureau",Washington,DC,true,true,true
+CONSUMERFINANCIALPROTECTIONBUREAU.GOV,"Federal Agency","Consumer Financial Protection Bureau",Washington,DC,false,true,true
+CONSUMERPROTECTION.GOV,"Federal Agency","Consumer Financial Protection Bureau",Washington,DC,true,true,true
+CONSUMERPROTECTIONBUREAU.GOV,"Federal Agency","Consumer Financial Protection Bureau",Washington,DC,true,true,true
+ANCHORIT.GOV,"Federal Agency","Consumer Product Safety Commission",Bethesda,MD,true,true,true
+ATVSAFETY.GOV,"Federal Agency","Consumer Product Safety Commission",Bethesda,MD,true,true,true
+CPSC.GOV,"Federal Agency","Consumer Product Safety Commission",Bethesda,MD,true,true,true
+DRYWALLRESPONSE.GOV,"Federal Agency","Consumer Product Safety Commission",Bethesda,MD,true,true,true
+POOLSAFELY.GOV,"Federal Agency","Consumer Product Safety Commission",Bethesda,MD,true,true,true
+POOLSAFETY.GOV,"Federal Agency","Consumer Product Safety Commission",Bethesda,MD,true,true,true
+RECALLS.GOV,"Federal Agency","Consumer Product Safety Commission",Bethesda,MD,true,true,true
+SAFERPRODUCT.GOV,"Federal Agency","Consumer Product Safety Commission",Bethesda,MD,true,true,true
+SAFERPRODUCTS.GOV,"Federal Agency","Consumer Product Safety Commission",Bethesda,MD,true,true,true
+SEGURIDADCONSUMIDOR.GOV,"Federal Agency","Consumer Product Safety Commission",Bethesda,MD,true,true,true
+AMERICORP.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,true
+AMERICORPS.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,true
+CNCS.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,true
+CNCSOIG.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,false
+CNS.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,true
+MENTOR.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,true
+MLKDAY.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,true
+NATIONALSERVICE.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,false
+NATIONALSERVICERESOURCES.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,true
+PRESIDENTIALSERVICEAWARDS.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,true
+SENIORCORPS.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,true
+SERVE.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,true
+SERVICE.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,true
+VISTACAMPUS.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,true
+VOLUNTEERINGINAMERICA.GOV,"Federal Agency","Corporation for National & Community Service",Washington,DC,true,true,true
+CIGIE.GOV,"Federal Agency","Council of Inspector General on Integrity and Efficiency",WASHINGTON,DC,false,true,true
+IGNET.GOV,"Federal Agency","Council of Inspector General on Integrity and Efficiency",Washington,DC,true,false,false
+OVERSIGHT.GOV,"Federal Agency","Council of Inspector General on Integrity and Efficiency",Washington,DC,true,false,false
+CSOSA.FED.US,"Federal Agency","Court Services and Offender Supervision",Washington,DC,false,false,false
+CSOSA.GOV,"Federal Agency","Court Services and Offender Supervision",Washington,DC,false,true,false
+PRETRIALSERVICES.GOV,"Federal Agency","Court Services and Offender Supervision",Washington,DC,false,true,false
+PSA.GOV,"Federal Agency","Court Services and Offender Supervision",Washington,DC,false,true,false
+DNFSB.GOV,"Federal Agency","Defense Nuclear Facilities Safety Board",Washington,DC,false,true,true
+DRA.GOV,"Federal Agency","Delta Regional Authority",Clarksdale,MS,true,true,false
+DENALI.GOV,"Federal Agency","Denali Commission",Anchorage,AK,true,true,false
+FEA.GOV,"Federal Agency","Denali Commission",Anchorage,AK,true,false,false
+AFF.GOV,"Federal Agency","Department of Agriculture",Boise,ID,false,false,false
+AG.GOV,"Federal Agency","Department of Agriculture","Fort Collins",CO,false,false,false
+ARS-GRIN.GOV,"Federal Agency","Department of Agriculture",Beltsville,MD,false,true,false
+ARSUSDA.GOV,"Federal Agency","Department of Agriculture",Beltsville,MD,false,false,false
+ASKKAREN.GOV,"Federal Agency","Department of Agriculture",Washington,DC,true,false,false
+BEFOODSAFE.GOV,"Federal Agency","Department of Agriculture",Washington,DC,true,false,false
+BIOPREFERRED.GOV,"Federal Agency","Department of Agriculture",Washington,DC,true,false,false
+BOSQUE.GOV,"Federal Agency","Department of Agriculture",Albuquerque,NM,true,false,false
+CHOOSEMYPLATE.GOV,"Federal Agency","Department of Agriculture",Alexandria,VA,true,false,false
+COASTALAMERICA.GOV,"Federal Agency","Department of Agriculture",Washington,DC,false,false,false
+DIETARYGUIDELINES.GOV,"Federal Agency","Department of Agriculture",Alexandria,VA,true,false,false
+EMPOWHR.GOV,"Federal Agency","Department of Agriculture","New Orleans",LA,true,false,false
+EXECSEC.GOV,"Federal Agency","Department of Agriculture",Washington,DC,true,false,false
+FIREINSTITUTE.GOV,"Federal Agency","Department of Agriculture",Tucson,AZ,true,false,false
+FOODSAFETYJOBS.GOV,"Federal Agency","Department of Agriculture",Washington,DC,true,false,false
+FORESTSANDRANGELANDS.GOV,"Federal Agency","Department of Agriculture",Washington,DC,true,false,false
+FS.FED.US,"Federal Agency","Department of Agriculture",Washington,DC,false,true,false
+GREEN.GOV,"Federal Agency","Department of Agriculture",Washington,DC,true,true,false
+ICBEMP.GOV,"Federal Agency","Department of Agriculture",Portland,OR,true,false,false
+INVASIVESPECIESINFO.GOV,"Federal Agency","Department of Agriculture",Beltsville,MD,true,true,false
+IPM.GOV,"Federal Agency","Department of Agriculture",Washington,DC,true,true,true
+ISITDONEYET.GOV,"Federal Agency","Department of Agriculture",Washington,DC,true,false,false
+ITAP.GOV,"Federal Agency","Department of Agriculture",Beltsville,MD,true,true,false
+JUNIORFORESTRANGER.GOV,"Federal Agency","Department of Agriculture",Washington,DC,false,true,true
+LCACOMMONS.GOV,"Federal Agency","Department of Agriculture",Beltsville,MD,true,true,false
+MTBS.GOV,"Federal Agency","Department of Agriculture","Salt Lake City",UT,true,false,false
+MYPLATE.GOV,"Federal Agency","Department of Agriculture",Alexandria,VA,true,false,false
+NAFRI.GOV,"Federal Agency","Department of Agriculture",Tucson,AZ,true,false,false
+NEL.GOV,"Federal Agency","Department of Agriculture",Alexandria,VA,true,false,false
+NUTRITION.GOV,"Federal Agency","Department of Agriculture",Washington,DC,true,true,false
+NUTRITIONEVIDENCELIBRARY.GOV,"Federal Agency","Department of Agriculture",Alexandria,VA,false,false,false
+NWCG.GOV,"Federal Agency","Department of Agriculture",Boise,ID,false,true,false
+PREGUNTELEAKAREN.GOV,"Federal Agency","Department of Agriculture",Washington,DC,true,false,false
+RECREATION.GOV,"Federal Agency","Department of Agriculture",Ogden,UT,true,true,false
+REO.GOV,"Federal Agency","Department of Agriculture",Portland,OR,false,false,false
+SMOKEYBEAR.GOV,"Federal Agency","Department of Agriculture",Washington,DC,true,true,true
+SYMBOLS.GOV,"Federal Agency","Department of Agriculture",Washington,DC,true,true,true
+THEPEOPLESGARDEN.GOV,"Federal Agency","Department of Agriculture",Wahington,DC,false,false,false
+USDA.GOV,"Federal Agency","Department of Agriculture","Ft. Collins",CO,true,true,false
+USDAPII.GOV,"Federal Agency","Department of Agriculture",Washington,DC,false,false,false
+WILDFIRE.GOV,"Federal Agency","Department of Agriculture",Boise,ID,false,false,false
+WOODSY.GOV,"Federal Agency","Department of Agriculture",Washington,DC,false,true,true
+WOODSYOWL.GOV,"Federal Agency","Department of Agriculture",Washington,DC,false,true,true
+2020CENSUS.GOV,"Federal Agency","Department of Commerce",Suitland,MD,false,true,true
+AP.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,false,false
+AVIATIONWEATHER.GOV,"Federal Agency","Department of Commerce","Silver Spring",MD,true,false,false
+BEA.GOV,"Federal Agency","Department of Commerce",Suitland,MD,true,true,false
+BLDRDOC.GOV,"Federal Agency","Department of Commerce",Boulder,CO,false,false,false
+BUYUSA.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,false,false
+CENSUS.GOV,"Federal Agency","Department of Commerce",Suitland,MD,true,true,true
+CEP.GOV,"Federal Agency","Department of Commerce",Suitland,MD,true,true,true
+CIVILRIGHTSUSA.GOV,"Federal Agency","Department of Commerce",Washington,DC,false,false,false
+CLIMATE.GOV,"Federal Agency","Department of Commerce","Silver Spring",MD,true,false,false
+COMMERCE.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,true,false
+DIGITALLITERACY.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,true,false
+DNSOPS.GOV,"Federal Agency","Department of Commerce",Gaithersburg,MD,true,true,true
+DOC.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,true,false
+DROUGHT.GOV,"Federal Agency","Department of Commerce",Asheville,NC,true,false,false
+EARTHSYSTEMPREDICTION.GOV,"Federal Agency","Department of Commerce","Silver Spring",MD,true,false,false
+EDA.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,true,false
+ESA.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,false,false
+EXPORT.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,false,false
+FIRSTNET.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,true,true
+FISHWATCH.GOV,"Federal Agency","Department of Commerce","Silver Spring",MD,false,false,false
+GOES-R.GOV,"Federal Agency","Department of Commerce",Greenbelt,MD,true,false,false
+GPS.GOV,"Federal Agency","Department of Commerce",Washington,DC,false,false,false
+HURRICANES.GOV,"Federal Agency","Department of Commerce",Miami,FL,true,false,false
+MANUFACTURING.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,false,false
+MARINECADASTRE.GOV,"Federal Agency","Department of Commerce",Charleston,SC,true,false,false
+MBDA.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,true,false
+MGI.GOV,"Federal Agency","Department of Commerce",Gaithersburg,MD,true,false,false
+NEHRP.GOV,"Federal Agency","Department of Commerce",Gaithersburg,MD,true,false,false
+NIST.GOV,"Federal Agency","Department of Commerce",Gaithersburg,MD,true,true,false
+NOAA.GOV,"Federal Agency","Department of Commerce","Silver Spring",MD,true,true,false
+NTIS.GOV,"Federal Agency","Department of Commerce",Alexandria,VA,true,true,true
+NWIRP.GOV,"Federal Agency","Department of Commerce",Gaithersburg,MD,false,false,false
+OFCM.GOV,"Federal Agency","Department of Commerce","Silver Spring",MD,false,false,false
+PAPAHANAUMOKUAKEA.GOV,"Federal Agency","Department of Commerce","Silver Spring",MD,true,false,false
+PRIVACYSHIELD.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,false,false
+PSCR.GOV,"Federal Agency","Department of Commerce",Boulder,CO,true,false,false
+SDR.GOV,"Federal Agency","Department of Commerce",Washington,DC,false,false,false
+SELECTUSA.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,false,false
+SPACEWEATHER.GOV,"Federal Agency","Department of Commerce",Boulder,CO,true,false,false
+SPECTRUM.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,true,false
+STANDARDS.GOV,"Federal Agency","Department of Commerce",Gaithersburg,MD,true,false,false
+STOPFAKES.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,false,false
+SWORM.GOV,"Federal Agency","Department of Commerce",Boulder,CO,true,false,false
+TIME.GOV,"Federal Agency","Department of Commerce",Boulder,CO,true,false,false
+TRADE.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,true,true
+TSUNAMI.GOV,"Federal Agency","Department of Commerce",Palmer,AK,true,false,false
+USPTO.GOV,"Federal Agency","Department of Commerce",Washington,DC,true,false,false
+WDOL.GOV,"Federal Agency","Department of Commerce",Alexandria,VA,true,false,false
+WEATHER.GOV,"Federal Agency","Department of Commerce","Silver Spring",MD,true,false,false
+ADLNET.GOV,"Federal Agency","Department of Defense",Washington,DC,true,true,true
+AFTAC.GOV,"Federal Agency","Department of Defense","Patrick AFB",FL,false,false,false
+ALTUSANDC.GOV,"Federal Agency","Department of Defense","patrick, afb",FL,true,false,false
+BRAC.GOV,"Federal Agency","Department of Defense",Alexandria,VA,true,false,false
+BUSINESSDEFENSE.GOV,"Federal Agency","Department of Defense",Washington,DC,true,false,false
+CMTS.GOV,"Federal Agency","Department of Defense",Mobile,AL,false,false,false
+CNSS.GOV,"Federal Agency","Department of Defense","Ft George G. Meade",MD,false,false,false
+CTOC.GOV,"Federal Agency","Department of Defense",Starke,FL,true,true,false
+CTTSO.GOV,"Federal Agency","Department of Defense",Arlington,VA,true,false,false
+DC3ON.GOV,"Federal Agency","Department of Defense",Linthicum,MD,false,true,false
+DEFENSE.GOV,"Federal Agency","Department of Defense","Fort Meade",MD,true,true,false
+DEFENSEBUSINESS.GOV,"Federal Agency","Department of Defense",Washington,DC,false,false,false
+DEFENSEMANUFACTURING.GOV,"Federal Agency","Department of Defense",Washington,DC,false,false,false
+DOD.GOV,"Federal Agency","Department of Defense","Fort Meade",MD,false,false,false
+DODBUSINESS.GOV,"Federal Agency","Department of Defense",Washington,DC,false,false,false
+EACLEARINGHOUSE.GOV,"Federal Agency","Department of Defense",Arlington,VA,false,false,false
+ERDC.GOV,"Federal Agency","Department of Defense",Vicksburg,MS,false,false,false
+FVAP.GOV,"Federal Agency","Department of Defense",Alexandria,VA,true,false,false
+IAD.GOV,"Federal Agency","Department of Defense","Ft Meade",MD,false,false,false
+IOSS.GOV,"Federal Agency","Department of Defense",Greenbelt,MD,false,false,false
+ITC.GOV,"Federal Agency","Department of Defense","Ft. Washington",MD,false,false,false
+JCCS.GOV,"Federal Agency","Department of Defense",Alexandria,VA,false,false,false
+MIBP.GOV,"Federal Agency","Department of Defense",Washington,DC,false,false,false
+MOJAVEDATA.GOV,"Federal Agency","Department of Defense",Barstow,CA,true,false,false
+MTMC.GOV,"Federal Agency","Department of Defense",Alexandria,VA,false,false,false
+MYPAY.GOV,"Federal Agency","Department of Defense",Pensacola,FL,false,false,false
+NATIONALRESOURCEDIRECTORY.GOV,"Federal Agency","Department of Defense",ARLINGTON,VA,true,false,false
+NCR.GOV,"Federal Agency","Department of Defense",Washington,DC,false,false,false
+NRD.GOV,"Federal Agency","Department of Defense",ARLINGTON,VA,true,false,false
+NRO.GOV,"Federal Agency","Department of Defense",Chantilly,VA,true,false,false
+NROJR.GOV,"Federal Agency","Department of Defense",Chantilly,VA,true,false,false
+NSA.GOV,"Federal Agency","Department of Defense","Ft. Meade",MD,true,true,false
+NSEP.GOV,"Federal Agency","Department of Defense",Alexandria,VA,true,true,false
+OEA.GOV,"Federal Agency","Department of Defense",Arlington,VA,true,false,false
+PENTAGON.GOV,"Federal Agency","Department of Defense","Fort Meade",MD,false,false,false
+SITEIDIQ.GOV,"Federal Agency","Department of Defense",Arlington,VA,false,false,false
+TSWG.GOV,"Federal Agency","Department of Defense",Arlington,VA,false,false,false
+USANDC.GOV,"Federal Agency","Department of Defense","Patrick AFB",FL,false,false,false
+AAPI.GOV,"Federal Agency","Department of Education",Washington,DC,true,true,true
+BUDGETLOB.GOV,"Federal Agency","Department of Education",Washington,DC,true,true,false
+CHILDSTATS.GOV,"Federal Agency","Department of Education",Washington,DC,true,true,true
+COLLEGENAVIGATOR.GOV,"Federal Agency","Department of Education",Washington,DC,true,true,true
+ED.GOV,"Federal Agency","Department of Education",Washington,DC,true,true,true
+EDPUBS.GOV,"Federal Agency","Department of Education","Washington ",DC,true,true,true
+EDUCATION.GOV,"Federal Agency","Department of Education",Washington,DC,true,true,true
+FAFSA.GOV,"Federal Agency","Department of Education",Washington,DC,true,true,true
+FSAPUBS.GOV,"Federal Agency","Department of Education",Washington,DC,true,true,true
+G5.GOV,"Federal Agency","Department of Education",Washington,DC,true,true,true
+NAGB.GOV,"Federal Agency","Department of Education",Washington,DC,true,true,true
+NATIONSREPORTCARD.GOV,"Federal Agency","Department of Education",Washington,DC,true,true,true
+STUDENTAID.GOV,"Federal Agency","Department of Education",Washington,DC,true,true,true
+STUDENTLOANS.GOV,"Federal Agency","Department of Education",Washington,DC,false,true,true
+AMESLAB.GOV,"Federal Agency","Department of Energy",Ames,IA,false,true,false
+ANL.GOV,"Federal Agency","Department of Energy",Argonne,IL,false,false,false
+ARM.GOV,"Federal Agency","Department of Energy",Richland,WA,false,false,false
+BIOMASSBOARD.GOV,"Federal Agency","Department of Energy",Washington,DC,true,true,false
+BNL.GOV,"Federal Agency","Department of Energy",Upton,NY,true,true,false
+BPA.GOV,"Federal Agency","Department of Energy",Portland,OR,true,true,false
+BRC.GOV,"Federal Agency","Department of Energy",Washington,DC,false,true,false
+BUILDINGAMERICA.GOV,"Federal Agency","Department of Energy",Golden,CO,true,true,false
+CASL.GOV,"Federal Agency","Department of Energy","Oak Ridge",TN,false,false,false
+CEBAF.GOV,"Federal Agency","Department of Energy","Newport News",VA,true,false,false
+CENDI.GOV,"Federal Agency","Department of Energy","Oak Ridge",TN,true,false,false
+CRT2014-2024REVIEW.GOV,"Federal Agency","Department of Energy",Portland,OR,true,true,false
+DOE.GOV,"Federal Agency","Department of Energy",Washington,DC,false,true,true
+DOEAL.GOV,"Federal Agency","Department of Energy",Albuquerque,NM,false,true,true
+EIA.GOV,"Federal Agency","Department of Energy",Washington,DC,true,true,true
+ENERGY.GOV,"Federal Agency","Department of Energy",Washington,DC,true,true,true
+ENERGYCODES.GOV,"Federal Agency","Department of Energy",Richland,WA,true,false,false
+ENERGYSAVER.GOV,"Federal Agency","Department of Energy",Washington,DC,true,false,false
+ENERGYSAVERS.GOV,"Federal Agency","Department of Energy",Washington,DC,true,false,false
+FNAL.GOV,"Federal Agency","Department of Energy",Batavia,IL,true,true,true
+FUELECONOMY.GOV,"Federal Agency","Department of Energy","Oak Ridge",TN,true,false,false
+HANFORD.GOV,"Federal Agency","Department of Energy",Richland,WA,false,false,false
+HIGHPERFORMANCEBUILDINGS.GOV,"Federal Agency","Department of Energy",Golden,CO,true,true,false
+HOMEENERGYSCORE.GOV,"Federal Agency","Department of Energy",Washington,DC,true,true,false
+HYDROGEN.GOV,"Federal Agency","Department of Energy",Washington,DC,true,true,false
+INEL.GOV,"Federal Agency","Department of Energy","Idaho Falls",ID,false,true,false
+INL.GOV,"Federal Agency","Department of Energy","Idaho Falls",ID,true,true,true
+ISOTOPE.GOV,"Federal Agency","Department of Energy","Oak Ridge",TN,true,false,false
+ISOTOPES.GOV,"Federal Agency","Department of Energy","Oak Ridge",TN,true,false,false
+KAPL.GOV,"Federal Agency","Department of Energy",Schenectady,NY,false,false,false
+LANL.GOV,"Federal Agency","Department of Energy","Los Alamos",NM,true,true,true
+LBL.GOV,"Federal Agency","Department of Energy",Berkeley,CA,true,true,false
+LLNL.GOV,"Federal Agency","Department of Energy",Livermore,CA,true,true,true
+NCCRC.GOV,"Federal Agency","Department of Energy","Oak Ridge",TN,false,false,false
+NCCS.GOV,"Federal Agency","Department of Energy","Oak Ridge",TN,false,false,false
+NCRC.GOV,"Federal Agency","Department of Energy","Oak Ridge",TN,false,false,false
+NERSC.GOV,"Federal Agency","Department of Energy",Berkeley,CA,true,false,false
+NEUP.GOV,"Federal Agency","Department of Energy",Washington,DC,true,true,false
+NREL.GOV,"Federal Agency","Department of Energy",Golden,CO,true,true,true
+NRELHUB.GOV,"Federal Agency","Department of Energy",Golden,CO,false,true,true
+NTRC.GOV,"Federal Agency","Department of Energy",Knoxville,TN,false,false,false
+NUCLEAR.GOV,"Federal Agency","Department of Energy",Washington,DC,false,true,false
+NWTRB.GOV,"Federal Agency","Department of Energy",Arlington,VA,true,true,true
+ORAU.GOV,"Federal Agency","Department of Energy","Oak Ridge",TN,true,true,true
+ORNL.GOV,"Federal Agency","Department of Energy","Oak Ridge",TN,true,true,true
+OSTI.GOV,"Federal Agency","Department of Energy","Oak Ridge",TN,true,true,true
+PNL.GOV,"Federal Agency","Department of Energy",Richland,WA,true,true,false
+PNNL.GOV,"Federal Agency","Department of Energy",Richland,WA,true,true,true
+PPPL.GOV,"Federal Agency","Department of Energy",Princeton,NJ,false,true,true
+PPPO.GOV,"Federal Agency","Department of Energy",Lexington,KY,false,true,true
+RL.GOV,"Federal Agency","Department of Energy",Richland,WA,false,false,false
+SALMONRECOVERY.GOV,"Federal Agency","Department of Energy",Portland,OR,true,true,false
+SANDIA.GOV,"Federal Agency","Department of Energy",Albuquerque,NM,true,true,true
+SCIDAC.GOV,"Federal Agency","Department of Energy","Oak Ridge",TN,true,false,false
+SCIENCE.GOV,"Federal Agency","Department of Energy","Oak Ridge",TN,true,true,true
+SMARTGRID.GOV,"Federal Agency","Department of Energy",Washington,DC,true,true,true
+SNS.GOV,"Federal Agency","Department of Energy","Oak Ridge",TN,true,false,false
+SOLARDECATHLON.GOV,"Federal Agency","Department of Energy",Washington,DC,false,true,false
+SRS.GOV,"Federal Agency","Department of Energy",Aiken,SC,false,true,true
+SWPA.GOV,"Federal Agency","Department of Energy",Tulsa,OK,true,true,false
+UNNPP.GOV,"Federal Agency","Department of Energy","West Mifflin",PA,false,true,true
+UNRPNET.GOV,"Federal Agency","Department of Energy",Washington,DC,false,true,false
+WAPA.GOV,"Federal Agency","Department of Energy",Lakewood,CO,true,true,true
+YMP.GOV,"Federal Agency","Department of Energy","Las Vegas",NV,true,true,false
+ACF.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+ACL.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+AFTERSCHOOL.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,false,true,true
+AGING.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+AGINGSTATS.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+AHCPR.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+AHRQ.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+AIDS.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+ALZHEIMERS.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+AOA.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+BAM.GOV,"Federal Agency","Department of Health And Human Services",Atlanta,GA,false,true,true
+BETOBACCOFREE.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,false,true,true
+BIOETHICS.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,false,true,true
+BIOSECURITYBOARD.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,false,false,false
+BRAINHEALTH.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+CANCER.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+CANCERNET.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+CDC.GOV,"Federal Agency","Department of Health And Human Services",Atlanta,GA,true,true,true
+CDCPARTNERS.GOV,"Federal Agency","Department of Health And Human Services",Atlanta,GA,false,true,true
+CEREBROSANO.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+CHILDWELFARE.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+CLINICALTRIAL.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,false,true,true
+CLINICALTRIALS.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+CMS.GOV,"Federal Agency","Department of Health And Human Services",Baltimore,MD,true,true,true
+COLLEGEDRINKINGPREVENTION.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+CUIDADODESALUD.GOV,"Federal Agency","Department of Health And Human Services",Baltimore,MD,true,false,true
+DHHS.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+DIABETESCOMMITTEE.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+DOCLINE.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+DONACIONDEORGANOS.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+DRUGABUSE.GOV,"Federal Agency","Department of Health And Human Services",Baltimore,MD,true,true,true
+DRUGFREEWORKPLACE.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,false,true,true
+EDISON.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+ELDERCARE.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+ENDINGTHEDOCUMENTGAME.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+ERRP.GOV,"Federal Agency","Department of Health And Human Services",Baltimore,MD,false,false,false
+FATHERHOOD.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+FDA.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,false,true,true
+FITNESS.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+FLU.GOV,"Federal Agency","Department of Health And Human Services",Atlanta,GA,false,true,true
+FOODSAFETY.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+FRESHEMPIRE.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+FRUITSANDVEGGIESMATTER.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+GENBANK.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,false,true,true
+GENOME.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+GIRLSHEALTH.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+GLOBALHEALTH.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+GRANTS.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+GRANTSOLUTIONS.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+GUIDELINE.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+GUIDELINES.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+HC.GOV,"Federal Agency","Department of Health And Human Services",Baltimore,MD,true,false,true
+HCQUALITYCOMMISSION.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+HEALTH.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+HEALTHCARE.GOV,"Federal Agency","Department of Health And Human Services",Baltimore,MD,true,true,true
+HEALTHDATA.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+HEALTHFINDER.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+HEALTHINDICATORS.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,false,true,true
+HEALTHIT.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+HEALTHREFORM.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+HEALTHYPEOPLE.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+HEARTTRUTH.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+HHS.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+HHSOIG.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+HHSOPS.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,false,true,true
+HIV.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+HRSA.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+IDEALAB.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+IEDISON.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+IHS.GOV,"Federal Agency","Department of Health And Human Services",Albuquerque,NM,true,true,true
+INSUREKIDSNOW.GOV,"Federal Agency","Department of Health And Human Services",Baltimore,MD,true,false,true
+LOCATORPLUS.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+LONGTERMCARE.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+MEDICAID.GOV,"Federal Agency","Department of Health And Human Services",Baltimore,MD,true,false,true
+MEDICALCOUNTERMEASURES.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,false,true,true
+MEDICALRESERVECORPS.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,false,false,false
+MEDICARE.GOV,"Federal Agency","Department of Health And Human Services",Baltimore,MD,true,true,true
+MEDLINE.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,false,false,false
+MEDLINEPLUS.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+MENTALHEALTH.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+MESH.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+MIMEDICARE.GOV,"Federal Agency","Department of Health And Human Services",Baltimore,MD,true,false,true
+MYMEDICARE.GOV,"Federal Agency","Department of Health And Human Services",Baltimore,MD,true,false,true
+NATIONALCHILDRENSSTUDY.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,false,true,true
+NCIFCRF.GOV,"Federal Agency","Department of Health And Human Services",Frederick,MD,true,true,true
+NGC.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+NIH.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+NIHSENIORHEALTH.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+NIOSH.GOV,"Federal Agency","Department of Health And Human Services",Atlanta,GA,false,true,true
+NLM.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+NNLM.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+ORGANDONOR.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+PANDEMICFLU.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+PHE.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+PSC.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+PUBMED.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,true,true,true
+PUBMEDCENTRAL.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,false,true,true
+QUIC.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+RECOVERYMONTH.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+SAFEYOUTH.GOV,"Federal Agency","Department of Health And Human Services",Atlanta,GA,false,true,true
+SAMHSA.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+SELECTAGENTS.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,false,true,true
+SMOKEFREE.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+STOPALCOHOLABUSE.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+STOPBULLYING.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+STOPMEDICAREFRAUD.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,false,true
+SURGEONGENERAL.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+THECOOLSPOT.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+THEREALCOST.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+THISFREELIFE.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+TISSUEENGINEERING.GOV,"Federal Agency","Department of Health And Human Services",Bethesda,MD,false,true,true
+TOBACCO.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+USABILITY.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+USBM.GOV,"Federal Agency","Department of Health And Human Services",Atlanta,GA,false,true,true
+USPHS.GOV,"Federal Agency","Department of Health And Human Services",Rockville,MD,true,true,true
+VACCINES.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+WHAGING.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,false,true,true
+WHITEHOUSECONFERENCEONAGING.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+WOMENSHEALTH.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+YOUTH.GOV,"Federal Agency","Department of Health And Human Services",Washington,DC,true,true,true
+BIOMETRICS.GOV,"Federal Agency","Department of Homeland Security",Arlington,VA,true,false,false
+CBP.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,false,true
+CITIZENCORPS.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,false,false
+CPNIREPORTING.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,false,false,false
+DHS.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,true,true
+DISASTERASSISTANCE.GOV,"Federal Agency","Department of Homeland Security",Bluemont,VA,true,false,false
+E-VERIFY.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,false,false
+EVERIFY.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,false,false
+EVUS.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,false,false,false
+FEMA.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,true,true
+FIRSTRESPONDER.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,true,false
+FIRSTRESPONDERTRAINING.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,false,false
+FLETA.GOV,"Federal Agency","Department of Homeland Security",Glynco,GA,true,false,false
+FLETC.GOV,"Federal Agency","Department of Homeland Security",Glynco,GA,true,false,false
+FLIGHTSCHOOLCANDIDATES.GOV,"Federal Agency","Department of Homeland Security",Rockville,MD,true,false,false
+FLOODSMART.GOV,"Federal Agency","Department of Homeland Security",Bluemont,VA,true,false,false
+GETYOUHOME.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,false,false,false
+GLOBALENTRY.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,false,false
+HOMELANDSECURITY.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,false,false
+ICE.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,false,false
+LISTO.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,false,false
+NMSC.GOV,"Federal Agency","Department of Homeland Security","St Augustine",FL,false,true,false
+READY.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,false,false
+READYBUSINESS.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,false,false
+SAFECOMPROGRAM.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,false,false
+SAFETYACT.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,false,false,false
+SECRETSERVICE.GOV,"Federal Agency","Department of Homeland Security","Washington D.C.",DC,false,true,true
+TSA.GOV,"Federal Agency","Department of Homeland Security",Arlington,VA,true,false,false
+US-CERT.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,true,false
+USCG.GOV,"Federal Agency","Department of Homeland Security",Alexandria,VA,false,false,false
+USCIS.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,true,false,false
+USSS.GOV,"Federal Agency","Department of Homeland Security",Washington,DC,false,false,false
+DISASTERHOUSING.GOV,"Federal Agency","Department of Housing And Urban Development",Washington,DC,true,false,false
+FHA.GOV,"Federal Agency","Department of Housing And Urban Development",Washington,DC,false,false,false
+GINNIEMAE.GOV,"Federal Agency","Department of Housing And Urban Development",Washington,DC,true,true,false
+HOMESALES.GOV,"Federal Agency","Department of Housing And Urban Development",Washington,DC,true,false,false
+HUD.GOV,"Federal Agency","Department of Housing And Urban Development",Washington,DC,true,true,false
+HUDOIG.GOV,"Federal Agency","Department of Housing And Urban Development",Washington,DC,true,true,false
+HUDUSER.GOV,"Federal Agency","Department of Housing And Urban Development",Washington,DC,true,true,true
+NATIONALHOUSING.GOV,"Federal Agency","Department of Housing And Urban Development",Washington,DC,true,false,false
+NATIONALHOUSINGLOCATOR.GOV,"Federal Agency","Department of Housing And Urban Development",Washington,DC,false,false,false
+NHL.GOV,"Federal Agency","Department of Housing And Urban Development",Washington,DC,true,false,false
+NLS.GOV,"Federal Agency","Department of Housing And Urban Development",Washington,DC,true,false,false
+ADA.GOV,"Federal Agency","Department of Justice",Rockville,MD,true,true,true
+ADR.GOV,"Federal Agency","Department of Justice",Rockville,MD,true,true,false
+AMBERALERT.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+ATF.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,false
+ATFONLINE.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,false
+BATS.GOV,"Federal Agency","Department of Justice",Potomac,MD,false,true,false
+BIOMETRICCOE.GOV,"Federal Agency","Department of Justice",Clarksburg,WV,true,false,false
+BJA.GOV,"Federal Agency","Department of Justice","Washington ",DC,true,true,false
+BJS.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,false
+BOP.GOV,"Federal Agency","Department of Justice",Washington,DC,false,true,false
+CAMPUSDRUGPREVENTION.GOV,"Federal Agency","Department of Justice",Springfield,VA,true,true,false
+CJIS.GOV,"Federal Agency","Department of Justice",Washington,DC,true,false,false
+CRIMESOLUTIONS.GOV,"Federal Agency","Department of Justice","Washinton ",DC,true,false,false
+CRIMEVICTIMS.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+CYBERCRIME.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,false
+DEA.GOV,"Federal Agency","Department of Justice",Rockville,MD,true,true,false
+DEADIVERSION.GOV,"Federal Agency","Department of Justice",Potomac,MD,false,true,false
+DEAECOM.GOV,"Federal Agency","Department of Justice",Potomac,MD,false,true,false
+DEALS.GOV,"Federal Agency","Department of Justice",Washington,DC,true,false,false
+DOJ.GOV,"Federal Agency","Department of Justice",Potomac,MD,false,true,false
+DSAC.GOV,"Federal Agency","Department of Justice",Potomac,MD,false,true,false
+EGUARDIAN.GOV,"Federal Agency","Department of Justice",Washington,DC,false,false,false
+ELDERJUSTICE.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,false
+EPIC.GOV,"Federal Agency","Department of Justice",Rockville,MD,true,false,false
+FARA.GOV,"Federal Agency","Department of Justice",potomac,MD,true,true,false
+FBI.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,true
+FBIJOBS.GOV,"Federal Agency","Department of Justice",Washington,DC,true,false,false
+FIRSTFREEDOM.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+FOIA.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,false
+FORFEITURE.GOV,"Federal Agency","Department of Justice",Potomac,MD,false,true,false
+FPI.GOV,"Federal Agency","Department of Justice",Washington,DC,false,true,false
+GETSMARTABOUTDRUGS.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+IC3.GOV,"Federal Agency","Department of Justice",Fairmont,WV,true,true,false
+INTERPOL.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+IPRCENTER.GOV,"Federal Agency","Department of Justice",Washington,DC,false,false,false
+JUSTICE.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,false
+JUSTTHINKTWICE.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,false,false
+JUVENILECOUNCIL.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+LEARNATF.GOV,"Federal Agency","Department of Justice",Washington,DC,false,true,false
+LEARNDOJ.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,false
+LEO.GOV,"Federal Agency","Department of Justice",Potomac,MD,false,true,true
+LEP.GOV,"Federal Agency","Department of Justice",Rockville,MD,true,true,false
+MALWAREINVESTIGATOR.GOV,"Federal Agency","Department of Justice",Washington,DC,false,false,false
+MEDALOFVALOR.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,false,false
+NAMUS.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+NATIONALGANGCENTER.GOV,"Federal Agency","Department of Justice",Tallahassee,FL,true,true,false
+NCIRC.GOV,"Federal Agency","Department of Justice",Tallahassee,FL,true,true,false
+NCJRS.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+NICIC.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,false
+NICSEZCHECKFBI.GOV,"Federal Agency","Department of Justice",Washington,DC,true,false,false
+NIEM.GOV,"Federal Agency","Department of Justice",Tallahassee,FL,true,true,false
+NIJ.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,false
+NMVTIS.GOV,"Federal Agency","Department of Justice",Washington,DC,true,false,false
+NSOPR.GOV,"Federal Agency","Department of Justice",Tallahassee,FL,true,false,false
+NSOPW.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,false
+NVTC.GOV,"Federal Agency","Department of Justice",Washington,DC,true,false,true
+OJJDP.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,false,false
+OJP.GOV,"Federal Agency","Department of Justice",Washington,DC,true,false,false
+OVC.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+OVCTTAC.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+PROJECTSAFECHILDHOOD.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+PROJECTSAFENEIGHBORHOODS.GOV,"Federal Agency","Department of Justice",Rockville,MD,true,false,false
+PSOB.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+RCFL.GOV,"Federal Agency","Department of Justice",McLean,VA,false,false,true
+SCRA.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+SERVICEMEMBERS.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+SMART.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,false
+STOPFRAUD.GOV,"Federal Agency","Department of Justice",Rockville,MD,true,true,false
+TECHTRACK.GOV,"Federal Agency","Department of Justice",Arlington,VA,false,false,false
+TRIBALJUSTICEANDSAFETY.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,true,false
+UCRDATATOOL.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,false
+UNICOR.GOV,"Federal Agency","Department of Justice",Washington,DC,false,true,false
+USDOJ.GOV,"Federal Agency","Department of Justice",Rockville,MD,true,true,false
+USERRA.GOV,"Federal Agency","Department of Justice",Potpmac,MD,true,true,false
+USMARSHALS.GOV,"Federal Agency","Department of Justice",Rockville,MD,true,true,false
+VCF.GOV,"Federal Agency","Department of Justice",Washington,DC,true,true,false
+VEHICLEHISTORY.GOV,"Federal Agency","Department of Justice",Potomac,MD,true,false,false
+BENEFITS.GOV,"Federal Agency","Department of Labor",Washington,DC,true,false,true
+BLS.GOV,"Federal Agency","Department of Labor",Washington,DC,true,false,false
+DISABILITY.GOV,"Federal Agency","Department of Labor",Washington,DC,false,false,false
+DOL-ESA.GOV,"Federal Agency","Department of Labor",Washington,DC,false,false,false
+DOL.GOV,"Federal Agency","Department of Labor",Washington,DC,true,true,false
+DOLETA.GOV,"Federal Agency","Department of Labor",Washington,DC,true,false,false
+EMPLOYER.GOV,"Federal Agency","Department of Labor",Washington,DC,true,false,false
+GOVBENEFITS.GOV,"Federal Agency","Department of Labor",Washington,DC,false,false,false
+GOVLOANS.GOV,"Federal Agency","Department of Labor",Washington,DC,true,false,false
+HIREVETS.GOV,"Federal Agency","Department of Labor",Washington,DC,true,false,false
+JOBCORPS.GOV,"Federal Agency","Department of Labor",Austin,TX,true,true,true
+LABOR.GOV,"Federal Agency","Department of Labor",Washington,DC,false,false,false
+MSHA.GOV,"Federal Agency","Department of Labor",Arlington,VA,false,false,false
+MYNEXTMOVE.GOV,"Federal Agency","Department of Labor",Washington,DC,true,false,false
+OSHA.GOV,"Federal Agency","Department of Labor",Washington,DC,true,true,true
+TRAININGPROVIDERRESULTS.GOV,"Federal Agency","Department of Labor",Washington,DC,false,false,false
+UNIONREPORTS.GOV,"Federal Agency","Department of Labor",Washington,DC,false,false,false
+VETERANS.GOV,"Federal Agency","Department of Labor",Washington,DC,true,false,false
+WHISTLEBLOWERS.GOV,"Federal Agency","Department of Labor",Washington,DC,true,false,false
+WORKER.GOV,"Federal Agency","Department of Labor",Washington,DC,true,false,false
+WRP.GOV,"Federal Agency","Department of Labor",Washington,DC,true,false,false
+YOUTHRULES.GOV,"Federal Agency","Department of Labor",Washington,DC,true,false,false
+AMERICA.GOV,"Federal Agency","Department of State",Washington,DC,true,true,true
+CONTINENTALSHELF.GOV,"Federal Agency","Department of State",Washington,DC,true,false,false
+CWC.GOV,"Federal Agency","Department of State",Washington,DC,false,true,true
+DEVTESTFAN1.GOV,"Federal Agency","Department of State",Washington,DC,false,true,true
+FAN.GOV,"Federal Agency","Department of State",Washington,DC,true,true,true
+FOREIGNASSISTANCE.GOV,"Federal Agency","Department of State",Washington,DC,true,true,true
+FSGB.GOV,"Federal Agency","Department of State",Washington,DC,false,true,true
+IAWG.GOV,"Federal Agency","Department of State",Washington,DC,true,true,true
+IBWC.GOV,"Federal Agency","Department of State","El Paso",TX,true,true,true
+ICASS.GOV,"Federal Agency","Department of State",Washington,DC,false,true,true
+OSAC.GOV,"Federal Agency","Department of State",Washington,DC,true,true,true
+PEPFAR.GOV,"Federal Agency","Department of State",Washington,DC,true,true,true
+PREPRODFAN.GOV,"Federal Agency","Department of State",Washington,DC,false,true,true
+SECURITYTESTFAN.GOV,"Federal Agency","Department of State",Washington,DC,false,true,true
+STATE.GOV,"Federal Agency","Department of State",Washington,DC,true,true,true
+SUPPORTFAN.GOV,"Federal Agency","Department of State",Washington,DC,false,true,true
+USASEANCONNECT.GOV,"Federal Agency","Department of State",Jakarta,Jakarta,true,true,true
+USCONSULATE.GOV,"Federal Agency","Department of State",Washington,DC,true,true,true
+USEMBASSY.GOV,"Federal Agency","Department of State",Washington,DC,true,true,true
+USMISSION.GOV,"Federal Agency","Department of State",Washington,DC,true,true,true
+STATEOIG.GOV,"Federal Agency","Department of State OIG",Arlington,VA,false,true,true
+ABANDONEDMINES.GOV,"Federal Agency","Department of the Interior",Washington,DC,true,true,true
+ACWI.GOV,"Federal Agency","Department of the Interior",Reston,VA,true,true,true
+ALASKACENTERS.GOV,"Federal Agency","Department of the Interior",Washington,DC,true,true,true
+ANSTASKFORCE.GOV,"Federal Agency","Department of the Interior",Arlington,VA,true,true,true
+BIA.GOV,"Federal Agency","Department of the Interior",Reston,VA,true,true,true
+BIOECO.GOV,"Federal Agency","Department of the Interior",Denver,CO,true,false,false
+BLM.GOV,"Federal Agency","Department of the Interior",Denver,CO,true,true,true
+BOEM.GOV,"Federal Agency","Department of the Interior",Herndon,VA,true,true,true
+BOEMRE.GOV,"Federal Agency","Department of the Interior",Washington,DC,false,true,true
+BOR.GOV,"Federal Agency","Department of the Interior",Denver,CO,false,true,true
+BSEE.GOV,"Federal Agency","Department of the Interior",Herndon,VA,true,true,true
+CORALREEF.GOV,"Federal Agency","Department of the Interior",Denver,CO,true,true,true
+CUPCAO.GOV,"Federal Agency","Department of the Interior",Denver,CO,false,true,true
+DOI.GOV,"Federal Agency","Department of the Interior",Washington,DC,true,true,true
+DOIOIG.GOV,"Federal Agency","Department of the Interior",RESTON,VA,false,true,true
+EARTHQUAKE.GOV,"Federal Agency","Department of the Interior","Menlo Park",CA,true,true,true
+EVERGLADESRESTORATION.GOV,"Federal Agency","Department of the Interior",Davie,FL,true,true,true
+FCG.GOV,"Federal Agency","Department of the Interior",Denver,CO,false,true,true
+FGDC.GOV,"Federal Agency","Department of the Interior",Reston,VA,true,true,true
+FIRECODE.GOV,"Federal Agency","Department of the Interior",Boise,ID,true,true,true
+FIRELEADERSHIP.GOV,"Federal Agency","Department of the Interior",Boise,ID,true,true,true
+FIRENET.GOV,"Federal Agency","Department of the Interior",Boise,ID,false,true,true
+FIRESCIENCE.GOV,"Federal Agency","Department of the Interior",Boise,ID,true,true,true
+FWS.GOV,"Federal Agency","Department of the Interior",Lakewood,CO,true,true,true
+GCDAMP.GOV,"Federal Agency","Department of the Interior",Denver,CO,false,true,true
+GCMRC.GOV,"Federal Agency","Department of the Interior",Flagstaff,AZ,true,true,true
+GEOCOMMUNICATOR.GOV,"Federal Agency","Department of the Interior",Denver,CO,true,true,true
+GEOMAC.GOV,"Federal Agency","Department of the Interior",Denver,CO,true,true,true
+GEOPLATFORM.GOV,"Federal Agency","Department of the Interior",Washington,DC,true,true,true
+IAT.GOV,"Federal Agency","Department of the Interior",Boise,ID,false,true,true
+INDIANAFFAIRS.GOV,"Federal Agency","Department of the Interior",Reston,VA,true,true,true
+INTERIOR.GOV,"Federal Agency","Department of the Interior",Washington,DC,true,true,true
+INVASIVESPECIES.GOV,"Federal Agency","Department of the Interior",Washington,DC,true,true,true
+JEM.GOV,"Federal Agency","Department of the Interior",Lafayett,LA,true,true,true
+KLAMATHRESTORATION.GOV,"Federal Agency","Department of the Interior",Yreka,CA,true,true,true
+LACOAST.GOV,"Federal Agency","Department of the Interior",Lafayette,LA,true,true,true
+LANDFIRE.GOV,"Federal Agency","Department of the Interior","Sioux Falls",SD,false,true,true
+LANDIMAGING.GOV,"Federal Agency","Department of the Interior",Reston,VA,true,true,true
+LCA.GOV,"Federal Agency","Department of the Interior",Lafayette,LA,true,true,true
+LCRMSCP.GOV,"Federal Agency","Department of the Interior",Denver,CO,false,true,true
+LMVSCI.GOV,"Federal Agency","Department of the Interior",Lafayette,LA,true,true,true
+MARINE.GOV,"Federal Agency","Department of the Interior",Camarillo,CA,true,true,true
+MITIGATIONCOMMISSION.GOV,"Federal Agency","Department of the Interior",Denver,CO,false,true,true
+MMS.GOV,"Federal Agency","Department of the Interior",Herndon,VA,false,true,true
+MRLC.GOV,"Federal Agency","Department of the Interior","Sioux Falls",SD,false,true,true
+NATIONALMAP.GOV,"Federal Agency","Department of the Interior",Reston,VA,true,true,true
+NATIVEONESTOP.GOV,"Federal Agency","Department of the Interior",Reston,VA,true,true,true
+NBC.GOV,"Federal Agency","Department of the Interior",Denver,CO,false,true,true
+NEMI.GOV,"Federal Agency","Department of the Interior",Middleton,WI,false,true,true
+NFPORS.GOV,"Federal Agency","Department of the Interior",Washington,DC,true,true,true
+NIFC.GOV,"Federal Agency","Department of the Interior",Boise,ID,true,true,true
+NOLAENVIRONMENTAL.GOV,"Federal Agency","Department of the Interior",Lafayette,LA,true,true,true
+NPS.GOV,"Federal Agency","Department of the Interior","WASHINGTON DC",DC,true,true,true
+ONHIR.GOV,"Federal Agency","Department of the Interior",Flagstaff,AZ,true,true,true
+ONRR.GOV,"Federal Agency","Department of the Interior",Herndon,VA,true,true,true
+OSM.GOV,"Federal Agency","Department of the Interior",Washington,DC,false,true,true
+OSMRE.GOV,"Federal Agency","Department of the Interior",Washington,DC,true,true,true
+PIEDRASBLANCAS.GOV,"Federal Agency","Department of the Interior",Sacramento,CA,false,true,true
+REPORTBAND.GOV,"Federal Agency","Department of the Interior",Laurel,MD,true,true,true
+RIVERS.GOV,"Federal Agency","Department of the Interior",Burbank,WA,true,true,true
+SAFECOM.GOV,"Federal Agency","Department of the Interior",Boise,ID,false,true,true
+SCIENCEBASE.GOV,"Federal Agency","Department of the Interior",Denver,CO,true,true,true
+SIERRAWILD.GOV,"Federal Agency","Department of the Interior",Yosemite,CA,true,true,true
+SNAP.GOV,"Federal Agency","Department of the Interior",Washington,DC,true,true,true
+USBR.GOV,"Federal Agency","Department of the Interior",Denver,CO,false,true,true
+USGS.GOV,"Federal Agency","Department of the Interior",Reston,VA,true,true,true
+UTAHFIREINFO.GOV,"Federal Agency","Department of the Interior",Denver,CO,true,true,true
+VOLCANO.GOV,"Federal Agency","Department of the Interior",Anchorage,AK,false,true,true
+VOLUNTEER.GOV,"Federal Agency","Department of the Interior",Reston,VA,true,true,true
+WATERMONITOR.GOV,"Federal Agency","Department of the Interior",Reston,VA,true,true,true
+WILDLIFEADAPTATIONSTRATEGY.GOV,"Federal Agency","Department of the Interior",Arlington,VA,true,true,true
+WLCI.GOV,"Federal Agency","Department of the Interior",Denver,CO,true,true,true
+AMA.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+AMERICATHEBEAUTIFULQUARTERS.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+ASAP.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,false
+AYUDACONMIBANCO.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+BANKANSWERS.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+BANKCUSTOMER.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+BANKCUSTOMERASSISTANCE.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+BANKHELP.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+BANKNET.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+BEP.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+BFEM.GOV,"Federal Agency","Department of the Treasury",Washington,DC,false,false,false
+BONDPRO.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+CCAC.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+CDFIFUND.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+COMPLAINTREFERRALEXPRESS.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+COMPTROLLEROFTHECURRENCY.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+DIRECTOASUCUENTA.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,false
+EAGLECASH.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+EFTPS.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+ETA-FIND.GOV,"Federal Agency","Department of the Treasury",DALLAS,TX,true,true,false
+ETHICSBURG.GOV,"Federal Agency","Department of the Treasury",Parkersburg,WV,true,true,true
+EYENOTE.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+FEDERALINVESTMENTS.GOV,"Federal Agency","Department of the Treasury",Pakersburg,WV,true,true,true
+FEDERALSPENDING.GOV,"Federal Agency","Department of the Treasury",Washington,DC,false,true,true
+FEDINVEST.GOV,"Federal Agency","Department of the Treasury",Parkersburg,WV,true,true,true
+FEDSPENDING.GOV,"Federal Agency","Department of the Treasury",Washington,DC,false,false,false
+FINANCIALRESEARCH.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+FINANCIALSTABILITY.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+FINCEN.GOV,"Federal Agency","Department of the Treasury",Vienna,VA,true,true,true
+FSOC.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+FTTESTTWAI.GOV,"Federal Agency","Department of the Treasury",Hyattsville,MD,false,false,false
+GODIRECT.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,false
+GWA.GOV,"Federal Agency","Department of the Treasury",Hyattsville,MD,false,true,false
+HELPWITHMYBANK.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+HELPWITHMYCHECKINGACCOUNT.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+HELPWITHMYCREDITCARD.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+HELPWITHMYCREDITCARDBANK.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+HELPWITHMYMORTGAGE.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+HELPWITHMYMORTGAGEBANK.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+IPAC.GOV,"Federal Agency","Department of the Treasury",Boston,MA,false,true,false
+IPP.GOV,"Federal Agency","Department of the Treasury",McLean,VA,true,true,false
+IRS.GOV,"Federal Agency","Department of the Treasury",McLean,VA,true,true,true
+IRSAUCTIONS.GOV,"Federal Agency","Department of the Treasury",McLean,VA,true,true,true
+IRSNET.GOV,"Federal Agency","Department of the Treasury",McLean,VA,false,true,true
+IRSSALES.GOV,"Federal Agency","Department of the Treasury",McLean,VA,true,true,true
+IRSVIDEOS.GOV,"Federal Agency","Department of the Treasury",Washington,DC,false,true,true
+ITS.GOV,"Federal Agency","Department of the Treasury",McLean,VA,true,true,false
+MAKINGHOMEAFFORDABLE.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+MHA.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+MONEYFACTORY.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+MONEYFACTORYSTORE.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+MSB.GOV,"Federal Agency","Department of the Treasury",Vienna,VA,true,false,true
+MYIRA.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+MYMONEY.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+MYRA.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+NATIONALBANK.GOV,"Federal Agency","Department of the Treasury",McLean,VA,true,true,true
+NATIONALBANKHELP.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+NATIONALBANKNET.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+NAVYCASH.GOV,"Federal Agency","Department of the Treasury",McLean,VA,true,true,true
+OCC.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+OCCHELPS.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+OCCNET.GOV,"Federal Agency","Department of the Treasury",Landover,MD,false,true,true
+OTS.GOV,"Federal Agency","Department of the Treasury",McLean,VA,true,true,true
+PATRIOTBONDS.GOV,"Federal Agency","Department of the Treasury",Parkersburg,WV,true,true,true
+PAY.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,false
+PRACOMMENT.GOV,"Federal Agency","Department of the Treasury",Washington,DC,false,true,true
+QATESTTWAI.GOV,"Federal Agency","Department of the Treasury",Hyattsville,MD,false,true,false
+SAVINGSBOND.GOV,"Federal Agency","Department of the Treasury",Mclean,VA,true,true,true
+SAVINGSBONDS.GOV,"Federal Agency","Department of the Treasury",McLean,VA,true,true,true
+SAVINGSBONDWIZARD.GOV,"Federal Agency","Department of the Treasury",Mclean,VA,true,true,true
+SIGTARP.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+SLGS.GOV,"Federal Agency","Department of the Treasury",Mclean,VA,true,true,true
+TAAPS.GOV,"Federal Agency","Department of the Treasury",Mclean,VA,true,true,true
+TAX.GOV,"Federal Agency","Department of the Treasury",McLean,VA,false,true,true
+TCIS.GOV,"Federal Agency","Department of the Treasury",Washington,DC,false,true,false
+TIGTA.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+TIGTANET.GOV,"Federal Agency","Department of the Treasury",McLean,VA,false,true,true
+TRANSPARENCY.GOV,"Federal Agency","Department of the Treasury",Washington,DC,false,true,true
+TREAS.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+TREASLOCKBOX.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,false
+TREASURY.FED.US,"Federal Agency","Department of the Treasury",Washington,DC,false,true,true
+TREASURY.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+TREASURYAUCTION.GOV,"Federal Agency","Department of the Treasury",Parkersburg,WV,false,true,false
+TREASURYAUCTIONS.GOV,"Federal Agency","Department of the Treasury",Mclean,VA,true,true,true
+TREASURYDIRECT.GOV,"Federal Agency","Department of the Treasury",McLean,VA,true,true,true
+TREASURYECM.GOV,"Federal Agency","Department of the Treasury",Washington,DC,false,true,true
+TREASURYHUNT.GOV,"Federal Agency","Department of the Treasury",Parkersburg,WV,true,true,true
+TREASURYSCAMS.GOV,"Federal Agency","Department of the Treasury",Mclean,VA,true,true,true
+TTB.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+TTBONLINE.GOV,"Federal Agency","Department of the Treasury",McLean,VA,true,true,true
+TTLPLUS.GOV,"Federal Agency","Department of the Treasury","St. Louis",MO,false,true,true
+TWAI.GOV,"Federal Agency","Department of the Treasury",Washington,DC,false,true,false
+USASPENDING.GOV,"Federal Agency","Department of the Treasury",Washington,DC,false,true,true
+USDEBITCARD.GOV,"Federal Agency","Department of the Treasury",Mclean,VA,true,true,true
+USMINT.GOV,"Federal Agency","Department of the Treasury",Washington,DC,true,true,true
+USTREAS.GOV,"Federal Agency","Department of the Treasury",McLean,VA,true,true,true
+VERIFYPAYMENT.GOV,"Federal Agency","Department of the Treasury",Parkersburg,WV,false,false,false
+WIZARD.GOV,"Federal Agency","Department of the Treasury",Mclean,VA,true,true,true
+WORKPLACE.GOV,"Federal Agency","Department of the Treasury",Washington,DC,false,true,true
+911.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+ATCREFORM.GOV,"Federal Agency","Department of Transportation",Washington,DC,false,true,false
+BTS.GOV,"Federal Agency","Department of Transportation",Washington,DC,false,true,false
+DISTRACTEDDRIVING.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+DISTRACTION.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+DOT.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+DOTIDEAHUB.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,false,false
+DOTTRAFFICRECORDS.GOV,"Federal Agency","Department of Transportation","Room 2202",DC,false,true,false
+EMS.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+ESC.GOV,"Federal Agency","Department of Transportation","Oklahoma City",OK,true,true,false
+FAA.GOV,"Federal Agency","Department of Transportation",Washington,DC,false,true,true
+FAASAFETY.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+JCCBI.GOV,"Federal Agency","Department of Transportation","Oklahoma City",OK,false,false,false
+MDA.GOV,"Federal Agency","Department of Transportation",Washington,DC,false,true,false
+NHTSA.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+PLAINLANGUAGE.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+PROTECTYOURMOVE.GOV,"Federal Agency","Department of Transportation",Washington,DC,false,true,false
+SAFECAR.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+SAFEOCS.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+SAFERCAR.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+SAFERTRUCK.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+SHARETHEROADSAFELY.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+SMARTERSKIES.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+STRONGPORTS.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+SUSTAINABLECOMMUNITIES.GOV,"Federal Agency","Department of Transportation",Washington,DC,false,true,false
+TFHRC.GOV,"Federal Agency","Department of Transportation",Mclean,VA,false,true,false
+TRAFFICSAFETYMARKETING.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+TRANSPORTATION.GOV,"Federal Agency","Department of Transportation",Washington,DC,true,true,false
+VA.GOV,"Federal Agency","Department of Veterans Affairs",Washington,DC,true,true,true
+VETBIZ.GOV,"Federal Agency","Department of Veterans Affairs",Washington,DC,true,true,true
+VETS.GOV,"Federal Agency","Department of Veterans Affairs",Washington,DC,true,true,true
+CE-NCSC.GOV,"Federal Agency","Director of National Intelligence",McLean,VA,false,false,false
+DNI.GOV,"Federal Agency","Director of National Intelligence",McLean,VA,true,false,false
+FAMEP.GOV,"Federal Agency","Director of National Intelligence",McLean,VA,false,false,false
+IARPA-IDEAS.GOV,"Federal Agency","Director of National Intelligence",Washington,DC,true,false,false
+IARPA.GOV,"Federal Agency","Director of National Intelligence","College Park",MD,true,false,false
+ICJOINTDUTY.GOV,"Federal Agency","Director of National Intelligence",Washington,DC,true,false,false
+INTELINK.GOV,"Federal Agency","Director of National Intelligence","Ft. George G. Meade",MD,false,true,false
+INTELLIGENCE.GOV,"Federal Agency","Director of National Intelligence",Washington,DC,true,false,false
+ISE.GOV,"Federal Agency","Director of National Intelligence","Washington ",DC,false,false,false
+NCIX.GOV,"Federal Agency","Director of National Intelligence",Washington,DC,true,false,false
+NCSC.GOV,"Federal Agency","Director of National Intelligence",Bethesda,MD,true,false,false
+ODNI.GOV,"Federal Agency","Director of National Intelligence",Washington,DC,true,false,false
+OSIS.GOV,"Federal Agency","Director of National Intelligence","Fort George G. Meade",MD,false,false,false
+PIX.GOV,"Federal Agency","Director of National Intelligence",Washington,DC,true,false,false
+QART.GOV,"Federal Agency","Director of National Intelligence",Washington,DC,true,false,false
+UGOV.GOV,"Federal Agency","Director of National Intelligence","Fort George G Meade",MD,false,true,false
+AIRNOW.GOV,"Federal Agency","Environmental Protection Agency",Durham,NC,true,false,false
+CBI-EPA.GOV,"Federal Agency","Environmental Protection Agency",Durham,NC,false,false,false
+E-ENTERPRISE.GOV,"Federal Agency","Environmental Protection Agency",Washington,DC,true,false,false
+ENERGYSTAR.GOV,"Federal Agency","Environmental Protection Agency",Washington,DC,true,true,false
+EPA.GOV,"Federal Agency","Environmental Protection Agency","Research Triangle Park",NC,true,false,true
+FDMS.GOV,"Federal Agency","Environmental Protection Agency",Washington,DC,true,false,false
+FEDCENTER.GOV,"Federal Agency","Environmental Protection Agency",Champaign,IL,true,false,false
+FRTR.GOV,"Federal Agency","Environmental Protection Agency",Omaha,NE,true,false,false
+GLNPO.GOV,"Federal Agency","Environmental Protection Agency",Chicago,IL,false,true,false
+GREENGOV.GOV,"Federal Agency","Environmental Protection Agency",Washington,DC,true,false,false
+REGULATIONS.GOV,"Federal Agency","Environmental Protection Agency",Washington,DC,true,true,false
+RELOCATEFEDS.GOV,"Federal Agency","Environmental Protection Agency",Cincinnati,OH,true,false,false
+SUSTAINABILITY.GOV,"Federal Agency","Environmental Protection Agency",Washington,DC,true,false,false
+TOX21.GOV,"Federal Agency","Environmental Protection Agency",Rockville,MD,true,false,false
+URBANWATERS.GOV,"Federal Agency","Environmental Protection Agency",Washington,DC,true,false,false
+EEOC.GOV,"Federal Agency","Equal Employment Opportunity Commission",Washington,DC,true,true,true
+BUDGET.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,true,false
+CISO.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,false,false
+CODE.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,false,false
+CYBER.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,true,false
+CYBERSECURITY.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,true,false
+EARMARKS.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,true,false
+EOP.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,true,false
+ETHICS.GOV,"Federal Agency","Executive Office of the President","Washington ",DC,true,false,false
+GREATAGAIN.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,false,false
+ITDASHBOARD.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,true,false
+MAX.GOV,"Federal Agency","Executive Office of the President",NW,WA,false,true,true
+NEPA.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,true,false
+NOTALONE.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,false,false
+NSTIC.GOV,"Federal Agency","Executive Office of the President",Gaithersburg,MD,true,false,false
+OMB.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,true,true
+ONDCP.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,false,false
+OSTP.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,false,false
+PAYMENTACCURACY.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,true,false
+PCI.GOV,"Federal Agency","Executive Office of the President",Washington,DC,false,false,false
+PITC.GOV,"Federal Agency","Executive Office of the President",Washington,DC,false,false,false
+PRESIDIO.GOV,"Federal Agency","Executive Office of the President","San Francisco",CA,true,true,true
+PRESIDIOTRUST.GOV,"Federal Agency","Executive Office of the President","San Francisco",CA,false,true,true
+USDIGITALSERVICE.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,false,false
+USDS.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,false,false
+USTR.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,true,false
+WH.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,true,false
+WHITEHOUSE.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,true,false
+WHITEHOUSEDRUGPOLICY.GOV,"Federal Agency","Executive Office of the President",Washington,DC,true,false,false
+EXIM.GOV,"Federal Agency","Export/Import Bank of the U.S.",Washington,DC,true,true,true
+FCA.GOV,"Federal Agency","Farm Credit Administration",McLean,VA,true,true,false
+FCSIC.GOV,"Federal Agency","Farm Credit Administration",McLean,VA,true,true,false
+BROADBAND.GOV,"Federal Agency","Federal Communications Commission",Washington,DC,true,true,true
+BROADBANDMAP.GOV,"Federal Agency","Federal Communications Commission",Washington,DC,true,true,true
+DTV.GOV,"Federal Agency","Federal Communications Commission",Washington,DC,true,true,true
+FCC.GOV,"Federal Agency","Federal Communications Commission",Washington,DC,true,true,true
+FCCUNIVERSITY.GOV,"Federal Agency","Federal Communications Commission",Washington,DC,true,true,true
+LIFELINE.GOV,"Federal Agency","Federal Communications Commission",Washington,DC,true,true,true
+NBM.GOV,"Federal Agency","Federal Communications Commission",Washington,DC,true,true,true
+OPENINTERNET.GOV,"Federal Agency","Federal Communications Commission",Washington,DC,true,true,true
+ECONOMICINCLUSION.GOV,"Federal Agency","Federal Deposit Insurance Corporation",Arlington,VA,true,true,true
+FDIC.GOV,"Federal Agency","Federal Deposit Insurance Corporation",Arlington,VA,false,true,true
+FDICCONNECT.GOV,"Federal Agency","Federal Deposit Insurance Corporation",Arlington,VA,false,true,true
+FDICIG.GOV,"Federal Agency","Federal Deposit Insurance Corporation",Arlington,VA,true,false,false
+FDICOIG.GOV,"Federal Agency","Federal Deposit Insurance Corporation",Washington,DC,true,false,false
+FDICSEGURO.GOV,"Federal Agency","Federal Deposit Insurance Corporation",Arlington,VA,false,true,true
+MYFDIC.GOV,"Federal Agency","Federal Deposit Insurance Corporation",Arlington,VA,false,true,true
+FEC.GOV,"Federal Agency","Federal Elections Commission",Washington,DC,true,true,true
+FERC.GOV,"Federal Agency","Federal Energy Regulatory Commission",Washington,DC,true,true,false
+FERCALT.GOV,"Federal Agency","Federal Energy Regulatory Commission",Washington,DC,true,false,false
+FHFA.GOV,"Federal Agency","Federal Housing Finance Agency",Washington,DC,false,true,true
+FHFB.GOV,"Federal Agency","Federal Housing Finance Agency",Washington,DC,false,false,false
+HARP.GOV,"Federal Agency","Federal Housing Finance Agency",Washington,DC,true,true,true
+OFHEO.GOV,"Federal Agency","Federal Housing Finance Agency",Washington,DC,false,false,false
+FHFAOIG.GOV,"Federal Agency","Federal Housing Finance Agency Office of Inspector General",Washington,DC,false,true,true
+FLRA.GOV,"Federal Agency","Federal Labor Relations Authority",Washington,DC,true,true,true
+FMC.GOV,"Federal Agency","Federal Maritime Commission",Washington,DC,true,true,false
+FMCS.GOV,"Federal Agency","Federal Mediation and Conciliation Service",Washington,DC,true,true,false
+FMSHRC.GOV,"Federal Agency","Federal Mine Safety and Health Review Company",Washington,DC,true,false,false
+FBIIC.GOV,"Federal Agency","Federal Reserve System",Washington,DC,false,true,true
+FEDERALRESERVE.GOV,"Federal Agency","Federal Reserve System",Washington,DC,true,true,true
+FEDERALRESERVE100.GOV,"Federal Agency","Federal Reserve System","Washington ",DC,false,true,true
+FEDERALRESERVE2013.GOV,"Federal Agency","Federal Reserve System",Washington,DC,false,true,true
+FEDERALRESERVECONSUMERHELP.GOV,"Federal Agency","Federal Reserve System",Washington,DC,true,true,false
+FEDPARTNERSHIP.GOV,"Federal Agency","Federal Reserve System",Washington,DC,true,true,false
+FFIEC.GOV,"Federal Agency","Federal Reserve System",Washington,DC,true,true,true
+FRB.FED.US,"Federal Agency","Federal Reserve System",Washington,DC,false,false,true
+FRB.GOV,"Federal Agency","Federal Reserve System",Washington,DC,false,true,true
+FRS.GOV,"Federal Agency","Federal Reserve System",Washington,DC,false,false,false
+NEWMONEY.GOV,"Federal Agency","Federal Reserve System",Washington,DC,false,true,true
+USCURRENCY.GOV,"Federal Agency","Federal Reserve System",Washington,DC,true,true,true
+EXPLORETSP.GOV,"Federal Agency","Federal Retirement Thrift Investment Board",Washington,DC,true,true,true
+FRTIB.GOV,"Federal Agency","Federal Retirement Thrift Investment Board",Washington,DC,true,true,true
+FRTIBTEST.GOV,"Federal Agency","Federal Retirement Thrift Investment Board",Washigton,DC,false,true,true
+TSP.GOV,"Federal Agency","Federal Retirement Thrift Investment Board",Washington,DC,true,true,true
+TSPTEST.GOV,"Federal Agency","Federal Retirement Thrift Investment Board",Washington,DC,false,true,true
+ADMONGO.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+ALERTAENLINEA.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+ANNUALCREDITREPORT.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+CONSUMER.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+CONSUMERSENTINEL.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+CONSUMERSENTINELNETWORK.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,false,true,true
+CONSUMIDOR.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+DONOTCALL.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+DONTSERVETEENS.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+ECONSUMER.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+FTC.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+FTCCOMPLAINTASSISTANT.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+FTCEFILE.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+HSR.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+IDENTITYTHEFT.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+IDTHEFT.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+MILITARYCONSUMER.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+NCPW.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+ONGUARDONLINE.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+PROTECCIONDELCONSUMIDOR.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+ROBODEIDENTIDAD.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+SENTINEL.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,true,true,true
+UCE.GOV,"Federal Agency","Federal Trade Commission",Washington,DC,false,true,true
+18F.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,false
+ACQUISITION.GOV,"Federal Agency","General Services Administration",Arlington,VA,true,true,true
+AFADVANTAGE.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+APP.GOV,"Federal Agency","General Services Administration",Washington,DC,true,false,false
+APPS.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,false
+BIDENTRANSITION.GOV,"Federal Agency","General Services Administration",Washington,DC,true,false,false
+BUSINESSUSA.GOV,"Federal Agency","General Services Administration",Washington,DC,true,false,true
+BUYACCESSIBLE.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+CAO.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,false
+CBCA.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+CFDA.GOV,"Federal Agency","General Services Administration",Washington,DC,true,false,false
+CFO.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,false
+CFOC.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+CHALLENGE.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+CHALLENGES.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+CIO.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,false
+CITIZENSCIENCE.GOV,"Federal Agency","General Services Administration",NW,DC,true,true,true
+CLOUD.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,false
+COMPUTERSFORLEARNING.GOV,"Federal Agency","General Services Administration",Arlington,VA,true,true,true
+CONNECT.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+CONSUMERACTION.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+CONTRACTDIRECTORY.GOV,"Federal Agency","General Services Administration",Arlington,VA,true,true,true
+CPARS.GOV,"Federal Agency","General Services Administration",Washington,DC,false,false,false
+DATA.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+DIGITAL.GOV,"Federal Agency","General Services Administration","Washington D.C.",DC,true,false,false
+DIGITALDASHBOARD.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+DIGITALGOV.GOV,"Federal Agency","General Services Administration",Washington,DC,true,false,false
+DOTGOV.GOV,"Federal Agency","General Services Administration",Fairfax,VA,true,true,false
+EAC.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+ECPIC.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+EISENHOWERMEMORIAL.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+ESRS.GOV,"Federal Agency","General Services Administration",arlington,VA,true,false,false
+EVERYKIDINAPARK.GOV,"Federal Agency","General Services Administration","Washington DC",DC,true,true,true
+FACA.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+FACADATABASE.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+FAI.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+FAPIIS.GOV,"Federal Agency","General Services Administration",Washington,DC,true,false,false
+FAQ.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+FBO.GOV,"Federal Agency","General Services Administration",Arlington,VA,true,true,false
+FED.US,"Federal Agency","General Services Administration",Washington,DC,false,true,false
+FEDBIZOPPS.GOV,"Federal Agency","General Services Administration",Arlington,VA,true,false,false
+FEDIDCARD.GOV,"Federal Agency","General Services Administration",Washington,DC,true,false,true
+FEDINFO.GOV,"Federal Agency","General Services Administration",Washington,DC,false,false,true
+FEDRAMP.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+FEDROOMS.GOV,"Federal Agency","General Services Administration",Arlington,VA,false,true,true
+FIRSTGOV.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+FMI.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+FORMS.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+FPC.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+FPDS.GOV,"Federal Agency","General Services Administration",Arlington,VA,false,true,true
+FPISC.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+FPKI-LAB.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+FPKI.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+FRPG.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+FRPP-PA.GOV,"Federal Agency","General Services Administration",WASHINGTON,DC,false,true,true
+FSD.GOV,"Federal Agency","General Services Administration",Arlington,VA,true,true,true
+FSRS.GOV,"Federal Agency","General Services Administration","Crystal City",VA,true,true,false
+GOBIERNO.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+GOBIERNOUSA.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+GOVSALES.GOV,"Federal Agency","General Services Administration",Arlington,VA,true,true,true
+GSA.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+GSAADVANTAGE.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+GSAAUCTIONS.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+GSAIG.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+GSATEST1.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+GSATEST2.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+GSATEST3.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+GSATEST4.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+GSATEST5.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+GSATESTNSN.GOV,"Federal Agency","General Services Administration",Washington,DC,false,false,false
+GSAXCESS.GOV,"Federal Agency","General Services Administration",Arlington,VA,true,true,true
+HOWTO.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+IDENTITYSANDBOX.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+IDMANAGEMENT.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+INFO.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+INNOVATION.GOV,"Federal Agency","General Services Administration",NW,DC,true,false,false
+KIDS.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+LOGIN.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+NBRC.GOV,"Federal Agency","General Services Administration",Concord,NH,true,true,true
+NETWORX.GOV,"Federal Agency","General Services Administration",Fairfax,VA,false,true,true
+NIC.GOV,"Federal Agency","General Services Administration",Fairfax,VA,true,true,false
+OBPR.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+OVERSIGHTBOARDPR.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+PCLOB.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+PERFORMANCE.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+PIC.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+PIF.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,false
+PPIRS.GOV,"Federal Agency","General Services Administration",Washington,DC,false,false,false
+PRESIDENTIALINNOVATIONFELLOWS.GOV,"Federal Agency","General Services Administration",Washington,DC,true,false,false
+PRIVACY.GOV,"Federal Agency","General Services Administration",Washington,DC,true,false,false
+PROMESA.GOV,"Federal Agency","General Services Administration",WASHINGTON,DC,false,true,true
+PTT.GOV,"Federal Agency","General Services Administration","Washington D.C.",DC,false,true,true
+REALESTATESALES.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+REALPROPERTYPROFILE.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+REGINFO.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+REPORTING.GOV,"Federal Agency","General Services Administration",Washington,DC,false,true,true
+ROCIS.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+SAM.GOV,"Federal Agency","General Services Administration",Arlington,VA,true,false,true
+SANDBOX.GOV,"Federal Agency","General Services Administration",Washinton,DC,false,true,true
+SBST.GOV,"Federal Agency","General Services Administration",Washington,DC,true,false,false
+SEARCH.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+SECTION508.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+SFTOOL.GOV,"Federal Agency","General Services Administration",Chicago,IL,true,true,true
+STRATEGICSOURCING.GOV,"Federal Agency","General Services Administration",Arlington,VA,false,true,true
+UNITEDSTATES.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+US.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+USA.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+USAGOV.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+USCIRF.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,false
+USGOVERNMENT.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+USIP.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,false
+USSM.GOV,"Federal Agency","General Services Administration",Washington,DC,true,true,true
+VEF.GOV,"Federal Agency","General Services Administration",Arlington,VA,true,true,true
+VOTE.GOV,"Federal Agency","General Services Administration",Washington,DC,true,false,false
+VOTEBYMAIL.GOV,"Federal Agency","General Services Administration","SILVER SPRING",MD,true,true,true
+CONGRESSIONALDIRECTORY.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,false,false
+CONGRESSIONALRECORD.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,false,false
+ECFR.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,false,false
+FDLP.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,false,false
+FDSYS.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,false,false
+FEDERALREGISTER.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,true,false
+FEDREG.GOV,"Federal Agency","Government Publishing Office",Washington,DC,false,false,false
+GOVINFO.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,false,false
+GPO.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,true,false
+HOUSECALENDAR.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,false,false
+OFR.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,false,false
+OPENWORLD.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,false,false
+PRESIDENTIALDOCUMENTS.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,false,false
+SENATECALENDAR.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,false,false
+USCC.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,true,false
+USCODE.GOV,"Federal Agency","Government Publishing Office",Washington,DC,true,false,false
+USGOVERNMENTMANUAL.GOV,"Federal Agency","Government Publishing Office","College Park",MD,true,false,false
+WELCOMETOUSA.GOV,"Federal Agency","Government Publishing Office",Washington,DC,false,false,false
+RESTORETHEGULF.GOV,"Federal Agency","Gulf Coast Ecosystem Restoration Council (GCERC)","Silver Spring",MD,true,false,false
+TRUMAN.GOV,"Federal Agency","Harry S. Truman Scholarship Foundation",Washington,DC,true,true,false
+IMLS.GOV,"Federal Agency","Institute of Museum and Library Services",Washington,DC,true,true,false
+IAF.GOV,"Federal Agency","Inter-American Foundation",Washington,DC,true,true,false
+BBG.GOV,"Federal Agency","International Broadcasting Bureau",Washington,DC,true,true,false
+IBB.GOV,"Federal Agency","International Broadcasting Bureau",Washington,DC,true,true,false
+VOA.GOV,"Federal Agency","International Broadcasting Bureau",Washington,DC,true,true,false
+JAMESMADISON.GOV,"Federal Agency","James Madison Memorial Fellowship Foundation",Alexandria,VA,true,true,false
+JUSFC.GOV,"Federal Agency","Japan-US Friendship Commision",Washington,DC,true,true,false
+KENNEDY-CENTER.GOV,"Federal Agency","John F. Kennedy Center for Performing Arts",Washington,DC,false,true,false
+LSC.GOV,"Federal Agency","Legal Services Corporation",Washington,DC,true,true,false
+AFRICANAMERICANHISTORYMONTH.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+AMERICANMEMORY.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+AMERICASLIBRARY.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+AMERICASSTORY.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+ASIANPACIFICHERITAGE.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+CONGRESS.GOV,"Federal Agency","Library of Congress",Washington,DC,true,true,false
+COPYRIGHT.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+CRB.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+CRS.GOV,"Federal Agency","Library of Congress",Washington,DC,false,false,false
+DIGITALPRESERVATION.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+DIGITIZATIONGUIDELINES.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+HISPANICHERITAGEMONTH.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+JEWISHHERITAGE.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+JEWISHHERITAGEMONTH.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+LAW.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+LCTL.GOV,"Federal Agency","Library of Congress",Washington,DC,false,false,false
+LIBRARYOFCONGRESS.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+LIS.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+LITERACY.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+LOC.GOV,"Federal Agency","Library of Congress",Washington,DC,true,true,false
+LOCTPS.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+NATIVEAMERICANHERITAGEMONTH.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+READ.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+SECTION108.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+TEACHINGPRIMARYSOURCES.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+TEACHINGWITHPRIMARYSOURCES.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+THOMAS.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+TPS.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+UNITEDSTATESCONGRESS.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+USCONGRESS.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+WDL.GOV,"Federal Agency","Library of Congress",Washington,DC,false,false,false
+WOMENSHISTORYMONTH.GOV,"Federal Agency","Library of Congress",Washington,DC,true,false,false
+MMC.GOV,"Federal Agency","Marine Mammal Commission",Bethesda,MD,true,true,false
+MACPAC.GOV,"Federal Agency","Medicaid and CHIP Payment and Access Commission",Washington,DC,true,true,false
+MEDPAC.GOV,"Federal Agency","Medical Payment Advisory Commission",Washington,DC,true,false,false
+MSPB.GOV,"Federal Agency","Merit Systems Protection Board",Washington,DC,true,true,false
+MCC.GOV,"Federal Agency","Millennium Challenge Corporation",Washington,DC,true,true,true
+MCCTEST.GOV,"Federal Agency","Millennium Challenge Corporation",Washington,DC,false,true,true
+ECR.GOV,"Federal Agency","Morris K. Udall Foundation",Tucson,AZ,true,true,false
+UDALL.GOV,"Federal Agency","Morris K. Udall Foundation",Tucson,AZ,true,true,false
+GLOBE.GOV,"Federal Agency","National Aeronautics and Space Administration",Greenbelt,MD,true,true,true
+NASA.GOV,"Federal Agency","National Aeronautics and Space Administration",MSFC,AL,true,true,true
+SCIJINKS.GOV,"Federal Agency","National Aeronautics and Space Administration",MSFC,AL,true,true,true
+USGEO.GOV,"Federal Agency","National Aeronautics and Space Administration",MSFC,AL,false,true,true
+9-11COMMISSION.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,true,true
+911COMMISSION.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,true,true
+ARCHIVES.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,true,true
+CLINTONLIBRARY.GOV,"Federal Agency","National Archives and Records Administration","Little Rock",AR,true,true,true
+EMERGENCY-FEDERAL-REGISTER.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,false,false,false
+FCIC.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,true,true
+FORDLIBRARYMUSEUM.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,true,true
+FRC.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,false,true,true
+GEORGEWBUSHLIBRARY.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,false,true,true
+HISTORY.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,true,true
+JIMMYCARTERLIBRARY.GOV,"Federal Agency","National Archives and Records Administration",College,MD,true,true,true
+NARA-AT-WORK.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,false,false,false
+NARA.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,true,true
+NIXONLIBRARY.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,true,true
+OBAMALIBRARY.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,true,true
+OBAMAWHITEHOUSE.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,true,true
+OGIS.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,true,true
+OURDOCUMENTS.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,true,true
+REAGANLIBRARY.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,true,true
+RECORDSMANAGEMENT.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,false,true,true
+WARTIMECONTRACTING.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,true,true
+WEBHARVEST.GOV,"Federal Agency","National Archives and Records Administration","College Park",MD,true,false,false
+NCPC.GOV,"Federal Agency","National Capital Planning Commission",Washington,DC,false,true,false
+NCD.GOV,"Federal Agency","National Council on Disability",Washington,DC,true,true,false
+MYCREDITUNION.GOV,"Federal Agency","National Credit Union Administration",Alexandria,VA,true,false,false
+NCUA.GOV,"Federal Agency","National Credit Union Administration",Alexandria,VA,true,true,true
+ARTS.GOV,"Federal Agency","National Endowment for the Arts",Washington,DC,true,true,false
+NEA.GOV,"Federal Agency","National Endowment for the Arts",Washington,DC,false,true,false
+HUMANITIES.GOV,"Federal Agency","National Endowment for the Humanities",Washington,DC,false,false,false
+NEH.GOV,"Federal Agency","National Endowment for the Humanities",Washington,DC,true,true,true
+PCAH.GOV,"Federal Agency","National Endowment for the Humanities",Washington,DC,true,false,false
+NGA.GOV,"Federal Agency","National Gallery of Art",Washington,DC,true,true,false
+NIGC.GOV,"Federal Agency","National Indian Gaming Commission",Washington,DC,true,false,false
+NLRB.GOV,"Federal Agency","National Labor Relations Board",Washington,DC,true,true,true
+NMB.GOV,"Federal Agency","National Mediation Board",Washington,DC,false,false,false
+NANO.GOV,"Federal Agency","National Nanotechnology Coordination Office",Arlington,VA,true,false,false
+NNSS.GOV,"Federal Agency","National Nuclear Security Administration","N Las Vegas",NV,true,false,false
+ARCTIC.GOV,"Federal Agency","National Science Foundation",Arlington,VA,true,true,true
+NSF.GOV,"Federal Agency","National Science Foundation",Alexandria,VA,true,true,true
+RESEARCH.GOV,"Federal Agency","National Science Foundation",Arlington,VA,true,true,true
+SAC.GOV,"Federal Agency","National Science Foundation",Arlington,VA,true,true,true
+SCIENCE360.GOV,"Federal Agency","National Science Foundation",Arlington,VA,true,true,true
+USAP.GOV,"Federal Agency","National Science Foundation",Arlington,VA,true,true,false
+INTELLIGENCECAREERS.GOV,"Federal Agency","National Security Agency","Ft. Meade",MD,true,false,false
+LPS.GOV,"Federal Agency","National Security Agency","College Park",MD,false,false,false
+NTSB.GOV,"Federal Agency","National Transportation Safety Board",Washington,DC,true,true,true
+ITRD.GOV,"Federal Agency","Networking Information Technology Research and Development (NITRD)",Arlington,VA,false,true,false
+NITRD.GOV,"Federal Agency","Networking Information Technology Research and Development (NITRD)",Arlington,VA,true,true,false
+NRC-GATEWAY.GOV,"Federal Agency","Nuclear Regulatory Commission",Rockville,MD,false,true,true
+NRC.GOV,"Federal Agency","Nuclear Regulatory Commission",Rockville,MD,false,true,true
+OSHRC.GOV,"Federal Agency","Occupational Safety & Health Review Commission",Washington,DC,true,true,true
+INTEGRITY.GOV,"Federal Agency","Office of Government Ethics",Washington,DC,true,true,false
+OGE.GOV,"Federal Agency","Office of Government Ethics",Washington,DC,true,true,true
+USITCOIG.GOV,"Federal Agency","Office of Inspector General for the U.S. International Trade Commission",Washington,DC,false,true,false
+APPLICATIONMANAGER.GOV,"Federal Agency","Office of Personnel Management",Macon,GA,true,true,false
+CHCOC.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,true,false,false
+CYBERCAREERS.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,true,false,false
+E-QIP.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,false,false,false
+EMPLOYEEEXPRESS.GOV,"Federal Agency","Office of Personnel Management",Macon,GA,true,false,false
+FEB.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,true,false,false
+FEDERALJOBS.GOV,"Federal Agency","Office of Personnel Management",Macon,GA,true,true,false
+FEDJOBS.GOV,"Federal Agency","Office of Personnel Management",Macon,GA,true,true,false
+FEDSHIREVETS.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,true,false,false
+FEGLI.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,true,false,false
+FSAFEDS.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,false,false,false
+GOLEARN.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,true,false,false
+GOVERNMENTJOBS.GOV,"Federal Agency","Office of Personnel Management",Macon,GA,true,false,false
+HRU.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,true,false,false
+LMRCOUNCIL.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,true,false,false
+NBIB.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,true,true,false
+OPM.GOV,"Federal Agency","Office of Personnel Management",Macon,GA,true,true,false
+PAC.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,false,false,false
+PMF.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,true,false,false
+TELEWORK.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,true,false,false
+UNLOCKTALENT.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,true,false,false
+USAJOBS.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,true,true,false
+USALEARNING.GOV,"Federal Agency","Office of Personnel Management",Washington,DC,true,false,false
+USASTAFFING.GOV,"Federal Agency","Office of Personnel Management",Macon,GA,true,false,false
+OPIC.GOV,"Federal Agency","Overseas Private Investment Corporation",Washington,DC,true,true,false
+PBGC.GOV,"Federal Agency","Pension Benefit Guaranty Corporation",Washington,DC,true,true,true
+PRC.GOV,"Federal Agency","Postal Rate Commission",Washington,DC,true,false,false
+RRB.GOV,"Federal Agency","Railroad Retirement Board",Chicago,IL,true,true,false
+INVESTOR.GOV,"Federal Agency","Securities and Exchange Commission",Alexandria,VA,true,true,false
+SEC.GOV,"Federal Agency","Securities and Exchange Commission",Alexandria,VA,true,true,true
+SSS.GOV,"Federal Agency","Selective Service System",Arlington,VA,true,true,true
+BUSINESS.GOV,"Federal Agency","Small Business Administration",Washington,DC,true,false,false
+NWBC.GOV,"Federal Agency","Small Business Administration",Washington,DC,true,false,false
+SBA.GOV,"Federal Agency","Small Business Administration",Washington,DC,true,true,false
+SBIR.GOV,"Federal Agency","Small Business Administration",Washington,DC,true,false,false
+ITIS.GOV,"Federal Agency","Smithsonian Institution",Washington,DC,true,true,false
+SEGUROSOCIAL.GOV,"Federal Agency","Social Security Administration",Baltimore,MD,true,true,true
+SOCIALSECURITY.GOV,"Federal Agency","Social Security Administration",Baltimore,MD,true,true,true
+SSA.GOV,"Federal Agency","Social Security Administration",Baltimore,MD,true,true,true
+SSAB.GOV,"Federal Agency","Social Security Advisory Board",WASHINGTON,DC,true,true,false
+SIGAR.GOV,"Federal Agency","Special IG for Afghanistan Reconstruction",Arlington,VA,true,false,false
+SJI.GOV,"Federal Agency","State Justice Institute (SJI)",Reston,VA,true,true,false
+STENNIS.GOV,"Federal Agency","Stennis Center for Public Service",Starkville,MS,true,true,false
+STB.GOV,"Federal Agency","Surface Transportation Board (STB)",Washington,DC,true,true,true
+TVA.GOV,"Federal Agency","Tennessee Valley Authority",Knoxville,TN,true,true,true
+TVAOIG.GOV,"Federal Agency","Tennessee Valley Authority",Knoxville,TN,true,true,false
+TSC.GOV,"Federal Agency","Terrorist Screening Center",Washington,DC,true,true,true
+PTF.GOV,"Federal Agency","The Intelligence Community",Washington,DC,false,false,false
+CBO.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,true,false
+CBONEWS.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,true,false
+CECC.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+CHINA-COMMISSION.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,false,false
+CHINACOMMISSION.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,MD,true,false,false
+CITIZENCOSPONSORS.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,false,false
+CITIZENS.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,false,false
+COSPONSOR.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,false,false
+CSCE.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+DEMOCRATICLEADER.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+DEMOCRATICWHIP.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,true,false
+DEMOCRATS.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,false,false
+DEMS.GOV,"Federal Agency","The Legislative Branch (Congress)","Washington DC",DC,true,false,false
+ESECLAB.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,true,false
+FASAB.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,true,false
+GAO.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,true,false
+GAONET.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,true,false
+GOP.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+GOPLEADER.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+HOUSE.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,true,true
+HOUSECOMMUNICATIONS.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+HOUSEDEMOCRATS.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+HOUSEDEMS.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+HOUSELIVE.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,false,false
+HOUSENEWSLETTERS.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+JCT.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,true,true
+LISTENSTOYOU.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,false,false
+MAJORITYLEADER.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+MAJORITYWHIP.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+PDBCECC.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,false,false
+PPDCECC.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+REPUBLICANS.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+SEN.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+SENATE.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,true,true
+SPEAKER.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,true,false,false
+TAXREFORM.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,false,false
+TMDBHOUSE.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,false,false
+USHOUSE.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,false,false
+USHR.GOV,"Federal Agency","The Legislative Branch (Congress)",Washington,DC,false,false,false
+SC-US.GOV,"Federal Agency","The Supreme Court",Washington,DC,false,false,false
+SCINET-TEST.GOV,"Federal Agency","The Supreme Court",Washington,DC,false,true,false
+SCINET.GOV,"Federal Agency","The Supreme Court",Washington,DC,false,false,false
+SCUS.GOV,"Federal Agency","The Supreme Court",WASHINGTON,DC,false,false,false
+SUPREME-COURT.GOV,"Federal Agency","The Supreme Court",Washington,DC,false,false,false
+SUPREMECOURT.GOV,"Federal Agency","The Supreme Court",Washington,DC,true,true,false
+SUPREMECOURTUS.GOV,"Federal Agency","The Supreme Court",Washington,DC,false,false,false
+WORLDWAR1CENTENNIAL.GOV,"Federal Agency","The United States World War One Centennial Commission",Washington,DC,true,false,false
+ACCESS-BOARD.GOV,"Federal Agency","U. S. Access Board",Washington,DC,true,true,false
+USHMM.GOV,"Federal Agency","U. S. Holocaust Memorial Museum",Washington,DC,false,true,true
+USITC.GOV,"Federal Agency","U. S. International Trade Commission",Washington,DC,true,true,true
+OSC.GOV,"Federal Agency","U. S. Office of Special Counsel",Washington,DC,true,true,false
+OSCNET.GOV,"Federal Agency","U. S. Office of Special Counsel",Washington,DC,false,false,false
+PEACECORE.GOV,"Federal Agency","U. S. Peace Corps",Washington,DC,true,false,false
+PEACECORP.GOV,"Federal Agency","U. S. Peace Corps",Washington,DC,true,false,false
+PEACECORPS.GOV,"Federal Agency","U. S. Peace Corps",Washington,DC,true,true,true
+CHANGEOFADDRESS.GOV,"Federal Agency","U. S. Postal Service",Washington,DC,true,true,true
+MAIL.GOV,"Federal Agency","U. S. Postal Service",Raleigh,NC,false,true,true
+MYUSPS.GOV,"Federal Agency","U. S. Postal Service",Raleigh,NC,false,true,true
+POSTOFFICE.GOV,"Federal Agency","U. S. Postal Service",Raleigh,NC,false,true,true
+PURCHASING.GOV,"Federal Agency","U. S. Postal Service",Raleigh,NC,false,true,true
+USPIS.GOV,"Federal Agency","U. S. Postal Service",Arlington,VA,true,true,true
+USPS.GOV,"Federal Agency","U. S. Postal Service",Raleigh,NC,false,true,true
+USPSINFORMEDDELIVERY.GOV,"Federal Agency","U. S. Postal Service",Raleigh,NC,false,true,true
+USPSINNOVATES.GOV,"Federal Agency","U. S. Postal Service",Washington,DC,true,true,true
+BANKRUPTCY.GOV,"Federal Agency","U.S Courts",Washington,DC,false,true,false
+CAVC.GOV,"Federal Agency","U.S Courts",Washington,DC,false,true,false
+FEDERALCOURTS.GOV,"Federal Agency","U.S Courts",Washington,DC,false,true,false
+FEDERALPROBATION.GOV,"Federal Agency","U.S Courts",Washington,DC,false,true,false
+FEDERALRULES.GOV,"Federal Agency","U.S Courts",Washington,DC,false,true,false
+FJC.GOV,"Federal Agency","U.S Courts",Washington,DC,true,true,true
+JUDICIALCONFERENCE.GOV,"Federal Agency","U.S Courts",Washington,DC,false,true,false
+NMCOURT.FED.US,"Federal Agency","U.S Courts",Albuquerque,NM,true,true,false
+PACER.GOV,"Federal Agency","U.S Courts",Washington,DC,true,true,false
+USBANKRUPTCY.GOV,"Federal Agency","U.S Courts",Washington,DC,false,true,false
+USC.GOV,"Federal Agency","U.S Courts",Washington,DC,false,true,false
+USCAVC.GOV,"Federal Agency","U.S Courts",Washington,DC,false,false,false
+USCOURTS.GOV,"Federal Agency","U.S Courts",Washington,DC,true,true,true
+USPROBATION.GOV,"Federal Agency","U.S Courts",Washington,DC,false,true,false
+USSC.GOV,"Federal Agency","U.S Courts",Washington,DC,false,true,false
+USTAXCOURT.GOV,"Federal Agency","U.S Courts",Washington,DC,true,false,false
+CHILDRENINADVERSITY.GOV,"Federal Agency","U.S. Agency for International Development",Washington,DC,true,false,false
+DFAFACTS.GOV,"Federal Agency","U.S. Agency for International Development",Washington,DC,false,false,false
+FEEDTHEFUTURE.GOV,"Federal Agency","U.S. Agency for International Development",Washington,DC,true,true,false
+GHI.GOV,"Federal Agency","U.S. Agency for International Development",Washington,DC,true,false,false
+LETGIRLSLEARN.GOV,"Federal Agency","U.S. Agency for International Development",Washington,DC,true,false,false
+NEGLECTEDDISEASES.GOV,"Federal Agency","U.S. Agency for International Development",Washington,DC,true,false,false
+OFDA.GOV,"Federal Agency","U.S. Agency for International Development",Washington,DC,true,true,false
+PMI.GOV,"Federal Agency","U.S. Agency for International Development",Washington,DC,true,true,true
+USAID.GOV,"Federal Agency","U.S. Agency for International Development",Washington,DC,true,true,true
+USCAPITOLPOLICE.GOV,"Federal Agency","U.S. Capitol Police",Washington,DC,false,false,false
+USCP.GOV,"Federal Agency","U.S. Capitol Police",Washington,DC,false,true,false
+CHEMSAFETY.GOV,"Federal Agency","U.S. Chemical Safety and Hazard Investigation Board",Washington,DC,false,false,false
+CSB.GOV,"Federal Agency","U.S. Chemical Safety and Hazard Investigation Board",Washington,DC,true,false,false
+SAFETYVIDEOS.GOV,"Federal Agency","U.S. Chemical Safety and Hazard Investigation Board",Washington,DC,false,false,false
+CFA.GOV,"Federal Agency","U.S. Commission of Fine Arts",Washington,DC,true,true,false
+USCCR.GOV,"Federal Agency","U.S. Commission on Civil Rights",Washington,DC,true,false,false
+PEACECORPSOIG.GOV,"Federal Agency","U.S. Postal Service, Office of Inspector General",Washington,DC,false,true,false
+USPSOIG.GOV,"Federal Agency","U.S. Postal Service, Office of Inspector General",Arlington,VA,true,true,false
+USTDA.GOV,"Federal Agency","U.S. Trade and Development Agency",Arlington,VA,true,true,false
+GLOBALCHANGE.GOV,"Federal Agency","United Stated Global Change Research Program",Washington,DC,false,false,false
+USGCRP.GOV,"Federal Agency","United Stated Global Change Research Program",Washington,DC,true,true,false
+HERITAGEABROAD.GOV,"Federal Agency","US Commission for the Preservation of Americas Heritage Abroad",Washington,DC,true,false,false
+ICH.GOV,"Federal Agency","US Interagency Council on Homelessness",washington,DC,false,false,false
+USICH.GOV,"Federal Agency","US Interagency Council on Homelessness",Washington,DC,true,true,false
